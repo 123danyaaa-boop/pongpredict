@@ -1,0 +1,39 @@
+# === PongPredict — Конфигурация ===
+
+database:
+  # Путь к SQLite базе данных
+  # Для MVP используем SQLite, потом можно переключить на PostgreSQL
+  url: "sqlite:///pongpredict.db"
+
+scraping:
+  # Задержка между запросами (секунды) — чтобы не забанили
+  delay: 2.0
+  # User-Agent для запросов
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  # Максимум повторных попыток при ошибке
+  max_retries: 3
+
+elo:
+  # Стартовый рейтинг для новых игроков
+  initial_rating: 1500
+  # K-факторы для разных категорий
+  k_factor_new: 32        # < 30 матчей
+  k_factor_default: 24    # обычный
+  k_factor_top: 16        # ELO > 2000
+  # Множители за уровень турнира
+  tournament_multiplier:
+    grand_slam: 1.5     # Олимпийские игры, ЧМ
+    major: 1.3          # WTT Champions, Grand Smash
+    contender: 1.1      # WTT Contender
+    regular: 1.0        # WTT Feeder, лиги
+
+model:
+  # Параметры XGBoost
+  n_estimators: 500
+  max_depth: 6
+  learning_rate: 0.05
+  subsample: 0.8
+  colsample_bytree: 0.8
+  early_stopping_rounds: 50
+  # Разделение данных (по дате, НЕ случайное!)
+  test_split_date: "2025-01-01"

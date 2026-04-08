@@ -1,0 +1,823 @@
+date,player1,player2,winner,score,tournament,level,country1,country2
+2022-04-05,Mattias Falck,Felix Lebrun,Felix Lebrun,3-4,WTT Contender Rio 2022,contender,SWE,FRA
+2022-04-05,Tomokazu Harimoto,Lin Shidong,Tomokazu Harimoto,4-3,WTT Contender Rio 2022,contender,JPN,CHN
+2022-04-06,Felix Lebrun,Xu Xin,Felix Lebrun,4-2,WTT Contender Rio 2022,contender,FRA,CHN
+2022-04-06,Dang Qiu,Darko Jorgic,Dang Qiu,4-3,WTT Contender Rio 2022,contender,GER,SLO
+2022-04-07,Anton Kallberg,Tomokazu Harimoto,Tomokazu Harimoto,2-4,WTT Contender Rio 2022,contender,SWE,JPN
+2022-04-07,Tomokazu Harimoto,Zhao Zihao,Tomokazu Harimoto,4-1,WTT Contender Rio 2022,contender,JPN,CHN
+2022-04-08,Chuang Chih-Yuan,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Contender Rio 2022,contender,TPE,JPN
+2022-04-08,Felix Lebrun,Patrick Franziska,Felix Lebrun,4-1,WTT Contender Rio 2022,contender,FRA,GER
+2022-04-08,Wang Chuqin,Felix Lebrun,Wang Chuqin,4-2,WTT Contender Rio 2022,contender,CHN,FRA
+2022-04-08,Wang Chuqin,Dang Qiu,Wang Chuqin,4-2,WTT Contender Rio 2022,contender,CHN,GER
+2022-04-09,Tomokazu Harimoto,Wang Chuqin,Wang Chuqin,1-4,WTT Contender Rio 2022,contender,JPN,CHN
+2022-04-10,Patrick Franziska,Timo Boll,Patrick Franziska,4-2,WTT Contender Rio 2022,contender,GER,GER
+2022-04-10,Quadri Aruna,Truls Moregardh,Truls Moregardh,3-4,WTT Contender Rio 2022,contender,NGR,SWE
+2022-04-10,Truls Moregardh,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Contender Rio 2022,contender,SWE,JPN
+2022-04-10,Hugo Calderano,Felix Lebrun,Felix Lebrun,3-4,WTT Contender Rio 2022,contender,BRA,FRA
+2022-04-30,Quadri Aruna,Cho Daeseong,Cho Daeseong,2-4,WTT Contender Rio 2022,contender,NGR,KOR
+2022-04-30,Truls Moregardh,Togami Shunsuke,Togami Shunsuke,2-4,WTT Contender Rio 2022,contender,SWE,JPN
+2022-04-30,Togami Shunsuke,Liang Jingkun,Liang Jingkun,3-4,WTT Contender Rio 2022,contender,JPN,CHN
+2022-05-01,Lin Gaoyuan,Cho Daeseong,Lin Gaoyuan,4-3,WTT Contender Lagos 2022,contender,CHN,KOR
+2022-05-01,Darko Jorgic,Dang Qiu,Dang Qiu,3-4,WTT Contender Rio 2022,contender,SLO,GER
+2022-05-01,Dang Qiu,Wang Chuqin,Dang Qiu,4-2,WTT Contender Rio 2022,contender,GER,CHN
+2022-05-02,Fan Zhendong,Yukiya Uda,Yukiya Uda,2-4,WTT Contender Lagos 2022,contender,CHN,JPN
+2022-05-02,Yukiya Uda,Truls Moregardh,Truls Moregardh,3-4,WTT Contender Lagos 2022,contender,JPN,SWE
+2022-05-02,Yukiya Uda,Dang Qiu,Dang Qiu,2-4,WTT Contender Rio 2022,contender,JPN,GER
+2022-05-03,Ma Long,Marcos Freitas,Ma Long,4-1,WTT Contender Lagos 2022,contender,CHN,POR
+2022-05-03,Zhao Zihao,Fan Zhendong,Fan Zhendong,2-4,WTT Contender Lagos 2022,contender,CHN,CHN
+2022-05-03,Xu Xin,Tomokazu Harimoto,Tomokazu Harimoto,2-4,WTT Contender Rio 2022,contender,CHN,JPN
+2022-05-03,Truls Moregardh,Liang Jingkun,Truls Moregardh,4-2,Olympic Games Paris 2022,grand_slam,SWE,CHN
+2022-05-04,Hugo Calderano,Lim Jonghoon,Hugo Calderano,4-2,WTT Contender Lagos 2022,contender,BRA,KOR
+2022-05-04,Xu Xin,Ma Long,Ma Long,3-4,WTT Contender Lagos 2022,contender,CHN,CHN
+2022-05-04,Wang Chuqin,Jang Woojin,Wang Chuqin,4-2,WTT Contender Rio 2022,contender,CHN,KOR
+2022-05-04,Lim Jonghoon,Xu Xin,Xu Xin,3-4,WTT Contender Rio 2022,contender,KOR,CHN
+2022-05-04,Dang Qiu,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Contender Rio 2022,contender,GER,JPN
+2022-05-04,Dimitrij Ovtcharov,Xu Xin,Xu Xin,3-4,WTT Contender Rio 2022,contender,GER,CHN
+2022-05-04,Felix Lebrun,Togami Shunsuke,Felix Lebrun,4-3,Olympic Games Paris 2022,grand_slam,FRA,JPN
+2022-05-04,Fan Zhendong,Xu Xin,Fan Zhendong,4-0,Olympic Games Paris 2022,grand_slam,CHN,CHN
+2022-05-04,Alexis Lebrun,Fan Zhendong,Fan Zhendong,0-4,Olympic Games Paris 2022,grand_slam,FRA,CHN
+2022-05-05,Wang Chuqin,Dimitrij Ovtcharov,Dimitrij Ovtcharov,0-4,WTT Contender Lagos 2022,contender,CHN,GER
+2022-05-05,Mattias Falck,Ma Long,Ma Long,2-4,WTT Contender Lagos 2022,contender,SWE,CHN
+2022-05-05,Lin Gaoyuan,Timo Boll,Lin Gaoyuan,4-1,WTT Contender Lagos 2022,contender,CHN,GER
+2022-05-05,Fan Zhendong,Lin Gaoyuan,Fan Zhendong,4-1,WTT Contender Lagos 2022,contender,CHN,CHN
+2022-05-05,Felix Lebrun,Liang Jingkun,Felix Lebrun,4-3,WTT Contender Rio 2022,contender,FRA,CHN
+2022-05-05,Xu Xin,Cho Daeseong,Xu Xin,4-2,WTT Contender Rio 2022,contender,CHN,KOR
+2022-05-05,Chuang Chih-Yuan,Xu Xin,Xu Xin,2-4,WTT Contender Rio 2022,contender,TPE,CHN
+2022-05-05,Xu Xin,Felix Lebrun,Xu Xin,4-2,WTT Contender Rio 2022,contender,CHN,FRA
+2022-05-05,Xu Xin,Quadri Aruna,Xu Xin,4-3,Olympic Games Paris 2022,grand_slam,CHN,NGR
+2022-05-05,Fan Zhendong,Felix Lebrun,Fan Zhendong,4-3,Olympic Games Paris 2022,grand_slam,CHN,FRA
+2022-05-06,Lin Gaoyuan,Omar Assar,Lin Gaoyuan,4-3,WTT Contender Lagos 2022,contender,CHN,EGY
+2022-05-06,Dimitrij Ovtcharov,Fan Zhendong,Fan Zhendong,0-4,WTT Contender Lagos 2022,contender,GER,CHN
+2022-05-06,Lin Gaoyuan,Ma Long,Lin Gaoyuan,4-3,WTT Contender Lagos 2022,contender,CHN,CHN
+2022-05-06,Hugo Calderano,Truls Moregardh,Hugo Calderano,4-3,WTT Contender Lagos 2022,contender,BRA,SWE
+2022-05-06,Wang Chuqin,Fan Zhendong,Fan Zhendong,2-4,Olympic Games Paris 2022,grand_slam,CHN,CHN
+2022-05-07,Omar Assar,Darko Jorgic,Omar Assar,4-3,Olympic Games Paris 2022,grand_slam,EGY,SLO
+2022-05-07,Anton Kallberg,Truls Moregardh,Truls Moregardh,3-4,Olympic Games Paris 2022,grand_slam,SWE,SWE
+2022-05-07,Xu Xin,Lin Shidong,Xu Xin,4-2,Olympic Games Paris 2022,grand_slam,CHN,CHN
+2022-05-07,Hugo Calderano,Wang Chuqin,Wang Chuqin,2-4,Olympic Games Paris 2022,grand_slam,BRA,CHN
+2022-05-07,Fan Zhendong,Lin Gaoyuan,Fan Zhendong,4-1,Olympic Games Paris 2022,grand_slam,CHN,CHN
+2022-05-07,Alexis Lebrun,Truls Moregardh,Alexis Lebrun,4-3,Olympic Games Paris 2022,grand_slam,FRA,SWE
+2022-05-08,Mattias Falck,Omar Assar,Omar Assar,3-4,Olympic Games Paris 2022,grand_slam,SWE,EGY
+2022-05-08,Wang Chuqin,Omar Assar,Wang Chuqin,4-2,Olympic Games Paris 2022,grand_slam,CHN,EGY
+2022-05-21,Lin Gaoyuan,Ma Long,Lin Gaoyuan,4-3,WTT Champions Chongqing 2022,major,CHN,CHN
+2022-05-21,Dimitrij Ovtcharov,Alexis Lebrun,Alexis Lebrun,2-4,WTT Champions Chongqing 2022,major,GER,FRA
+2022-05-21,Jang Woojin,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Chongqing 2022,major,KOR,CHN
+2022-05-21,Tomokazu Harimoto,Liang Jingkun,Tomokazu Harimoto,4-3,WTT Champions Chongqing 2022,major,JPN,CHN
+2022-05-22,Felix Lebrun,Quadri Aruna,Felix Lebrun,4-3,WTT Champions Chongqing 2022,major,FRA,NGR
+2022-05-22,Lin Shidong,Felix Lebrun,Felix Lebrun,3-4,WTT Champions Chongqing 2022,major,CHN,FRA
+2022-05-23,Timo Boll,Felix Lebrun,Felix Lebrun,2-4,WTT Champions Chongqing 2022,major,GER,FRA
+2022-05-23,Wang Chuqin,Patrick Franziska,Wang Chuqin,4-2,WTT Champions Chongqing 2022,major,CHN,GER
+2022-05-24,Hugo Calderano,Alexis Lebrun,Alexis Lebrun,2-4,WTT Champions Chongqing 2022,major,BRA,FRA
+2022-05-24,Fan Zhendong,Felix Lebrun,Fan Zhendong,4-3,WTT Champions Chongqing 2022,major,CHN,FRA
+2022-05-24,Fan Zhendong,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Chongqing 2022,major,CHN,CHN
+2022-05-25,Patrick Franziska,Truls Moregardh,Patrick Franziska,4-3,WTT Champions Chongqing 2022,major,GER,SWE
+2022-05-25,Fan Zhendong,Alexis Lebrun,Fan Zhendong,4-2,WTT Champions Chongqing 2022,major,CHN,FRA
+2022-05-26,Lin Gaoyuan,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Chongqing 2022,major,CHN,CHN
+2022-05-26,Fan Zhendong,Tomokazu Harimoto,Fan Zhendong,4-3,WTT Champions Chongqing 2022,major,CHN,JPN
+2022-06-10,Chuang Chih-Yuan,Ma Long,Ma Long,2-4,WTT Contender Tunis 2022,contender,TPE,CHN
+2022-06-11,Patrick Franziska,Timo Boll,Timo Boll,2-4,WTT Contender Tunis 2022,contender,GER,GER
+2022-06-11,Ma Long,Wang Chuqin,Wang Chuqin,2-4,WTT Contender Tunis 2022,contender,CHN,CHN
+2022-06-12,Truls Moregardh,Quadri Aruna,Truls Moregardh,4-2,WTT Contender Tunis 2022,contender,SWE,NGR
+2022-06-12,Fan Zhendong,Liang Jingkun,Fan Zhendong,4-1,WTT Contender Tunis 2022,contender,CHN,CHN
+2022-06-12,Wang Chuqin,Lin Shidong,Wang Chuqin,4-1,WTT Contender Tunis 2022,contender,CHN,CHN
+2022-06-12,Zhao Zihao,Xu Xin,Zhao Zihao,4-2,WTT Contender Tunis 2022,contender,CHN,CHN
+2022-06-12,Fan Zhendong,Cho Daeseong,Cho Daeseong,0-4,WTT Contender Tunis 2022,contender,CHN,KOR
+2022-06-12,Ma Long,Zhao Zihao,Ma Long,4-2,WTT Contender Tunis 2022,contender,CHN,CHN
+2022-06-12,Timo Boll,Cho Daeseong,Timo Boll,4-3,WTT Contender Tunis 2022,contender,GER,KOR
+2022-06-12,Lim Jonghoon,Wang Chuqin,Wang Chuqin,2-4,WTT Contender Tunis 2022,contender,KOR,CHN
+2022-06-13,Dimitrij Ovtcharov,Ma Long,Ma Long,3-4,WTT Contender Tunis 2022,contender,GER,CHN
+2022-06-13,Cho Daeseong,Dang Qiu,Cho Daeseong,4-3,WTT Contender Tunis 2022,contender,KOR,GER
+2022-06-14,Ma Long,Truls Moregardh,Ma Long,4-3,WTT Contender Tunis 2022,contender,CHN,SWE
+2022-06-15,Ma Long,Timo Boll,Ma Long,4-1,WTT Contender Tunis 2022,contender,CHN,GER
+2022-07-02,Jang Woojin,Can Akkuzu,Jang Woojin,4-3,WTT Contender Beirut 2022,contender,KOR,FRA
+2022-07-02,Jang Woojin,Felix Lebrun,Felix Lebrun,2-4,WTT Contender Beirut 2022,contender,KOR,FRA
+2022-07-02,Ma Long,Liang Jingkun,Ma Long,4-3,WTT Contender Beirut 2022,contender,CHN,CHN
+2022-07-02,Ma Long,Lim Jonghoon,Ma Long,4-3,WTT Contender Beirut 2022,contender,CHN,KOR
+2022-07-03,Cho Daeseong,Alexis Lebrun,Alexis Lebrun,2-4,WTT Contender Beirut 2022,contender,KOR,FRA
+2022-07-03,Alexis Lebrun,Mattias Falck,Alexis Lebrun,4-3,WTT Contender Beirut 2022,contender,FRA,SWE
+2022-07-03,Felix Lebrun,Zhao Zihao,Felix Lebrun,4-1,WTT Contender Beirut 2022,contender,FRA,CHN
+2022-07-03,Felix Lebrun,Omar Assar,Felix Lebrun,4-3,WTT Contender Beirut 2022,contender,FRA,EGY
+2022-07-04,Dimitrij Ovtcharov,Alexis Lebrun,Alexis Lebrun,2-4,WTT Contender Beirut 2022,contender,GER,FRA
+2022-07-05,Dang Qiu,Lim Jonghoon,Lim Jonghoon,3-4,WTT Contender Beirut 2022,contender,GER,KOR
+2022-07-05,Truls Moregardh,Anton Kallberg,Anton Kallberg,2-4,WTT Contender Beirut 2022,contender,SWE,SWE
+2022-07-05,Felix Lebrun,Hugo Calderano,Hugo Calderano,3-4,WTT Contender Beirut 2022,contender,FRA,BRA
+2022-07-05,Hugo Calderano,Ma Long,Ma Long,3-4,WTT Contender Beirut 2022,contender,BRA,CHN
+2022-07-07,Truls Moregardh,Alexis Lebrun,Truls Moregardh,4-2,WTT Contender Beirut 2022,contender,SWE,FRA
+2022-07-07,Anton Kallberg,Hugo Calderano,Hugo Calderano,3-4,WTT Contender Beirut 2022,contender,SWE,BRA
+2022-07-21,Quadri Aruna,Togami Shunsuke,Quadri Aruna,4-3,WTT Contender Lima 2022,contender,NGR,JPN
+2022-07-22,Ma Long,Marcos Freitas,Ma Long,4-0,WTT Contender Lima 2022,contender,CHN,POR
+2022-07-22,Hugo Calderano,Timo Boll,Hugo Calderano,4-1,WTT Contender Lima 2022,contender,BRA,GER
+2022-07-24,Truls Moregardh,Alexis Lebrun,Truls Moregardh,4-2,WTT Contender Lima 2022,contender,SWE,FRA
+2022-07-24,Dimitrij Ovtcharov,Ma Long,Ma Long,2-4,WTT Contender Lima 2022,contender,GER,CHN
+2022-07-25,Cho Daeseong,Lin Gaoyuan,Lin Gaoyuan,3-4,WTT Contender Lima 2022,contender,KOR,CHN
+2022-07-25,Dimitrij Ovtcharov,Zhao Zihao,Dimitrij Ovtcharov,4-3,WTT Contender Lima 2022,contender,GER,CHN
+2022-07-25,Ma Long,Truls Moregardh,Truls Moregardh,3-4,WTT Contender Lima 2022,contender,CHN,SWE
+2022-07-25,Truls Moregardh,Quadri Aruna,Truls Moregardh,4-3,WTT Contender Lima 2022,contender,SWE,NGR
+2022-07-26,Truls Moregardh,Chuang Chih-Yuan,Truls Moregardh,4-2,WTT Contender Lima 2022,contender,SWE,TPE
+2022-07-26,Alexis Lebrun,Lin Shidong,Alexis Lebrun,4-2,WTT Contender Lima 2022,contender,FRA,CHN
+2022-07-26,Jang Woojin,Dang Qiu,Jang Woojin,4-3,WTT Contender Lima 2022,contender,KOR,GER
+2022-07-26,Truls Moregardh,Lin Gaoyuan,Truls Moregardh,4-3,WTT Contender Lima 2022,contender,SWE,CHN
+2022-07-26,Hugo Calderano,Ma Long,Ma Long,3-4,WTT Contender Lima 2022,contender,BRA,CHN
+2022-07-26,Jang Woojin,Truls Moregardh,Jang Woojin,4-3,WTT Contender Lima 2022,contender,KOR,SWE
+2022-08-17,Tomokazu Harimoto,Dimitrij Ovtcharov,Dimitrij Ovtcharov,3-4,WTT Champions Macao 2022,major,JPN,GER
+2022-08-17,Ma Long,Fan Zhendong,Fan Zhendong,3-4,WTT Champions Macao 2022,major,CHN,CHN
+2022-08-17,Truls Moregardh,Liang Jingkun,Truls Moregardh,4-3,WTT Champions Macao 2022,major,SWE,CHN
+2022-08-18,Alexis Lebrun,Patrick Franziska,Alexis Lebrun,4-2,WTT Champions Macao 2022,major,FRA,GER
+2022-08-18,Lin Shidong,Wang Chuqin,Wang Chuqin,1-4,WTT Champions Macao 2022,major,CHN,CHN
+2022-08-18,Truls Moregardh,Wang Chuqin,Wang Chuqin,1-4,WTT Champions Macao 2022,major,SWE,CHN
+2022-08-18,Felix Lebrun,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Macao 2022,major,FRA,CHN
+2022-08-19,Lin Gaoyuan,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Macao 2022,major,CHN,CHN
+2022-08-19,Timo Boll,Fan Zhendong,Fan Zhendong,0-4,WTT Champions Macao 2022,major,GER,CHN
+2022-08-20,Fan Zhendong,Jang Woojin,Fan Zhendong,4-1,WTT Champions Macao 2022,major,CHN,KOR
+2022-08-20,Wang Chuqin,Fan Zhendong,Wang Chuqin,4-2,WTT Champions Macao 2022,major,CHN,CHN
+2022-08-21,Quadri Aruna,Dimitrij Ovtcharov,Quadri Aruna,4-3,WTT Champions Macao 2022,major,NGR,GER
+2022-08-21,Felix Lebrun,Hugo Calderano,Felix Lebrun,4-2,WTT Champions Macao 2022,major,FRA,BRA
+2022-08-22,Wang Chuqin,Quadri Aruna,Wang Chuqin,4-2,WTT Champions Macao 2022,major,CHN,NGR
+2022-08-22,Alexis Lebrun,Truls Moregardh,Truls Moregardh,3-4,WTT Champions Macao 2022,major,FRA,SWE
+2022-08-31,Alexis Lebrun,Cho Daeseong,Cho Daeseong,3-4,WTT Feeder Antalya 2022,regular,FRA,KOR
+2022-08-31,Dimitrij Ovtcharov,Timo Boll,Dimitrij Ovtcharov,4-2,WTT Feeder Antalya 2022,regular,GER,GER
+2022-09-01,Tomokazu Harimoto,Lin Gaoyuan,Tomokazu Harimoto,4-2,WTT Feeder Antalya 2022,regular,JPN,CHN
+2022-09-01,Truls Moregardh,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Feeder Antalya 2022,regular,SWE,JPN
+2022-09-01,Tomokazu Harimoto,Dimitrij Ovtcharov,Tomokazu Harimoto,4-2,WTT Feeder Antalya 2022,regular,JPN,GER
+2022-09-01,Tomokazu Harimoto,Anton Kallberg,Tomokazu Harimoto,4-2,WTT Feeder Antalya 2022,regular,JPN,SWE
+2022-09-01,Cho Daeseong,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Feeder Antalya 2022,regular,KOR,JPN
+2022-09-02,Felix Lebrun,Dang Qiu,Dang Qiu,2-4,WTT Feeder Antalya 2022,regular,FRA,GER
+2022-09-03,Togami Shunsuke,Lin Gaoyuan,Lin Gaoyuan,3-4,WTT Feeder Antalya 2022,regular,JPN,CHN
+2022-09-03,Zhao Zihao,Truls Moregardh,Truls Moregardh,2-4,WTT Feeder Antalya 2022,regular,CHN,SWE
+2022-09-03,Cho Daeseong,Hugo Calderano,Cho Daeseong,4-3,WTT Feeder Antalya 2022,regular,KOR,BRA
+2022-09-05,Yukiya Uda,Dang Qiu,Dang Qiu,3-4,WTT Feeder Antalya 2022,regular,JPN,GER
+2022-09-05,Lim Jonghoon,Dang Qiu,Lim Jonghoon,4-3,WTT Feeder Antalya 2022,regular,KOR,GER
+2022-09-05,Cho Daeseong,Lim Jonghoon,Cho Daeseong,4-3,WTT Feeder Antalya 2022,regular,KOR,KOR
+2022-09-05,Truls Moregardh,Xu Xin,Truls Moregardh,4-3,WTT Feeder Antalya 2022,regular,SWE,CHN
+2022-09-05,Ma Long,Tomokazu Harimoto,Ma Long,4-3,WTT Cup Finals Xinxiang 2022,major,CHN,JPN
+2022-09-05,Hugo Calderano,Truls Moregardh,Hugo Calderano,4-3,WTT Cup Finals Xinxiang 2022,major,BRA,SWE
+2022-09-05,Hugo Calderano,Wang Chuqin,Wang Chuqin,1-4,WTT Cup Finals Xinxiang 2022,major,BRA,CHN
+2022-09-06,Fan Zhendong,Hugo Calderano,Hugo Calderano,2-4,WTT Cup Finals Xinxiang 2022,major,CHN,BRA
+2022-09-07,Ma Long,Lin Gaoyuan,Lin Gaoyuan,3-4,WTT Cup Finals Xinxiang 2022,major,CHN,CHN
+2022-09-08,Lin Gaoyuan,Liang Jingkun,Lin Gaoyuan,4-3,WTT Cup Finals Xinxiang 2022,major,CHN,CHN
+2022-09-09,Wang Chuqin,Lin Gaoyuan,Wang Chuqin,4-3,WTT Cup Finals Xinxiang 2022,major,CHN,CHN
+2022-10-09,Jang Woojin,Hugo Calderano,Hugo Calderano,3-4,WTT Star Contender Bangkok 2022,contender,KOR,BRA
+2022-10-09,Timo Boll,Wang Chuqin,Wang Chuqin,0-4,WTT Star Contender Bangkok 2022,contender,GER,CHN
+2022-10-09,Wang Chuqin,Alexis Lebrun,Wang Chuqin,4-0,WTT Star Contender Bangkok 2022,contender,CHN,FRA
+2022-10-10,Darko Jorgic,Jang Woojin,Jang Woojin,2-4,WTT Star Contender Bangkok 2022,contender,SLO,KOR
+2022-10-10,Lim Jonghoon,Lin Gaoyuan,Lin Gaoyuan,3-4,WTT Star Contender Bangkok 2022,contender,KOR,CHN
+2022-10-10,Lin Shidong,Zhao Zihao,Zhao Zihao,2-4,WTT Star Contender Bangkok 2022,contender,CHN,CHN
+2022-10-10,Ma Long,Quadri Aruna,Ma Long,4-2,WTT Star Contender Bangkok 2022,contender,CHN,NGR
+2022-10-11,Patrick Franziska,Liang Jingkun,Liang Jingkun,2-4,WTT Star Contender Bangkok 2022,contender,GER,CHN
+2022-10-11,Lin Gaoyuan,Timo Boll,Timo Boll,3-4,WTT Star Contender Bangkok 2022,contender,CHN,GER
+2022-10-12,Zhao Zihao,Hugo Calderano,Hugo Calderano,2-4,WTT Star Contender Bangkok 2022,contender,CHN,BRA
+2022-10-12,Wang Chuqin,Hugo Calderano,Wang Chuqin,4-3,WTT Star Contender Bangkok 2022,contender,CHN,BRA
+2022-10-13,Anton Kallberg,Lin Shidong,Lin Shidong,3-4,WTT Star Contender Bangkok 2022,contender,SWE,CHN
+2022-10-13,Chuang Chih-Yuan,Hugo Calderano,Hugo Calderano,1-4,WTT Star Contender Bangkok 2022,contender,TPE,BRA
+2022-10-14,Liang Jingkun,Ma Long,Liang Jingkun,4-2,WTT Star Contender Bangkok 2022,contender,CHN,CHN
+2022-10-14,Wang Chuqin,Liang Jingkun,Wang Chuqin,4-2,WTT Star Contender Bangkok 2022,contender,CHN,CHN
+2022-10-16,Liang Jingkun,Dimitrij Ovtcharov,Liang Jingkun,4-3,WTT Contender Lima 2022,contender,CHN,GER
+2022-10-16,Anton Kallberg,Ma Long,Ma Long,2-4,WTT Contender Lima 2022,contender,SWE,CHN
+2022-10-17,Lin Shidong,Quadri Aruna,Lin Shidong,4-3,WTT Contender Lima 2022,contender,CHN,NGR
+2022-10-17,Ma Long,Lin Shidong,Ma Long,4-2,WTT Contender Lima 2022,contender,CHN,CHN
+2022-10-18,Lin Gaoyuan,Alexis Lebrun,Alexis Lebrun,3-4,WTT Contender Lima 2022,contender,CHN,FRA
+2022-10-19,Ma Long,Can Akkuzu,Ma Long,4-2,WTT Contender Lima 2022,contender,CHN,FRA
+2022-10-19,Fan Zhendong,Xu Xin,Xu Xin,2-4,WTT Contender Lima 2022,contender,CHN,CHN
+2022-10-19,Marcos Freitas,Alexis Lebrun,Alexis Lebrun,3-4,WTT Contender Lima 2022,contender,POR,FRA
+2022-10-19,Togami Shunsuke,Truls Moregardh,Togami Shunsuke,4-2,WTT Contender Lima 2022,contender,JPN,SWE
+2022-10-19,Alexis Lebrun,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Contender Lima 2022,contender,FRA,JPN
+2022-10-19,Liang Jingkun,Togami Shunsuke,Liang Jingkun,4-2,WTT Contender Lima 2022,contender,CHN,JPN
+2022-10-19,Tomokazu Harimoto,Liang Jingkun,Tomokazu Harimoto,4-3,WTT Contender Lima 2022,contender,JPN,CHN
+2022-10-20,Ma Long,Cho Daeseong,Ma Long,4-3,WTT Contender Lima 2022,contender,CHN,KOR
+2022-10-21,Xu Xin,Tomokazu Harimoto,Tomokazu Harimoto,2-4,WTT Contender Lima 2022,contender,CHN,JPN
+2022-10-21,Tomokazu Harimoto,Ma Long,Tomokazu Harimoto,4-3,WTT Contender Lima 2022,contender,JPN,CHN
+2022-11-10,Dang Qiu,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Star Contender Bangkok 2022,contender,GER,JPN
+2022-11-11,Ma Long,Quadri Aruna,Ma Long,4-0,WTT Star Contender Bangkok 2022,contender,CHN,NGR
+2022-11-11,Jang Woojin,Hugo Calderano,Hugo Calderano,3-4,WTT Star Contender Bangkok 2022,contender,KOR,BRA
+2022-11-11,Tomokazu Harimoto,Xu Xin,Tomokazu Harimoto,4-3,WTT Star Contender Bangkok 2022,contender,JPN,CHN
+2022-11-11,Hugo Calderano,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Star Contender Bangkok 2022,contender,BRA,JPN
+2022-11-12,Ma Long,Alexis Lebrun,Ma Long,4-1,WTT Star Contender Bangkok 2022,contender,CHN,FRA
+2022-11-12,Hugo Calderano,Cho Daeseong,Hugo Calderano,4-1,WTT Star Contender Bangkok 2022,contender,BRA,KOR
+2022-11-13,Wang Chuqin,Truls Moregardh,Truls Moregardh,0-4,WTT Star Contender Bangkok 2022,contender,CHN,SWE
+2022-11-13,Anton Kallberg,Jang Woojin,Jang Woojin,3-4,WTT Star Contender Bangkok 2022,contender,SWE,KOR
+2022-11-14,Hugo Calderano,Felix Lebrun,Hugo Calderano,4-2,WTT Star Contender Bangkok 2022,contender,BRA,FRA
+2022-11-14,Jang Woojin,Timo Boll,Jang Woojin,4-3,WTT Star Contender Bangkok 2022,contender,KOR,GER
+2022-11-15,Anton Kallberg,Truls Moregardh,Anton Kallberg,4-3,WTT Star Contender Bangkok 2022,contender,SWE,SWE
+2022-11-15,Lim Jonghoon,Lin Shidong,Lin Shidong,2-4,WTT Star Contender Bangkok 2022,contender,KOR,CHN
+2022-11-15,Lin Shidong,Xu Xin,Xu Xin,3-4,WTT Star Contender Bangkok 2022,contender,CHN,CHN
+2022-11-15,Hugo Calderano,Ma Long,Hugo Calderano,4-3,WTT Star Contender Bangkok 2022,contender,BRA,CHN
+2022-12-05,Anton Kallberg,Darko Jorgic,Darko Jorgic,3-4,WTT Feeder Dusseldorf 2022,regular,SWE,SLO
+2022-12-05,Tomokazu Harimoto,Alexis Lebrun,Tomokazu Harimoto,4-2,WTT Feeder Dusseldorf 2022,regular,JPN,FRA
+2022-12-06,Darko Jorgic,Mattias Falck,Mattias Falck,2-4,WTT Feeder Dusseldorf 2022,regular,SLO,SWE
+2022-12-06,Mattias Falck,Tomokazu Harimoto,Tomokazu Harimoto,1-4,WTT Feeder Dusseldorf 2022,regular,SWE,JPN
+2022-12-06,Alexis Lebrun,Zhao Zihao,Alexis Lebrun,4-3,WTT Feeder Dusseldorf 2022,regular,FRA,CHN
+2022-12-06,Xu Xin,Lim Jonghoon,Lim Jonghoon,2-4,WTT Feeder Dusseldorf 2022,regular,CHN,KOR
+2022-12-07,Tomokazu Harimoto,Yukiya Uda,Tomokazu Harimoto,4-2,WTT Feeder Dusseldorf 2022,regular,JPN,JPN
+2022-12-08,Tomokazu Harimoto,Lin Shidong,Tomokazu Harimoto,4-1,WTT Feeder Dusseldorf 2022,regular,JPN,CHN
+2022-12-08,Truls Moregardh,Zhao Zihao,Zhao Zihao,3-4,WTT Feeder Dusseldorf 2022,regular,SWE,CHN
+2022-12-08,Patrick Franziska,Yukiya Uda,Yukiya Uda,2-4,WTT Feeder Dusseldorf 2022,regular,GER,JPN
+2022-12-08,Lim Jonghoon,Omar Assar,Omar Assar,2-4,WTT Feeder Dusseldorf 2022,regular,KOR,EGY
+2022-12-08,Quadri Aruna,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Feeder Dusseldorf 2022,regular,NGR,JPN
+2022-12-09,Patrick Franziska,Lin Gaoyuan,Patrick Franziska,4-3,WTT Feeder Dusseldorf 2022,regular,GER,CHN
+2022-12-09,Zhao Zihao,Chuang Chih-Yuan,Zhao Zihao,4-3,WTT Feeder Dusseldorf 2022,regular,CHN,TPE
+2022-12-10,Tomokazu Harimoto,Omar Assar,Tomokazu Harimoto,4-2,WTT Feeder Dusseldorf 2022,regular,JPN,EGY
+2023-01-09,Chuang Chih-Yuan,Dimitrij Ovtcharov,Chuang Chih-Yuan,4-2,WTT Star Contender Goa 2023,contender,TPE,GER
+2023-01-09,Tomokazu Harimoto,Felix Lebrun,Felix Lebrun,3-4,WTT Star Contender Goa 2023,contender,JPN,FRA
+2023-01-10,Hugo Calderano,Darko Jorgic,Hugo Calderano,4-2,WTT Star Contender Goa 2023,contender,BRA,SLO
+2023-01-10,Chuang Chih-Yuan,Wang Chuqin,Wang Chuqin,0-4,WTT Star Contender Goa 2023,contender,TPE,CHN
+2023-01-10,Lim Jonghoon,Zhao Zihao,Lim Jonghoon,4-2,WTT Star Contender Goa 2023,contender,KOR,CHN
+2023-01-10,Jang Woojin,Felix Lebrun,Jang Woojin,4-3,WTT Star Contender Goa 2023,contender,KOR,FRA
+2023-01-10,Wang Chuqin,Hugo Calderano,Wang Chuqin,4-3,WTT Star Contender Goa 2023,contender,CHN,BRA
+2023-01-11,Felix Lebrun,Cho Daeseong,Felix Lebrun,4-3,WTT Star Contender Goa 2023,contender,FRA,KOR
+2023-01-11,Zhao Zihao,Ma Long,Zhao Zihao,4-3,WTT Star Contender Goa 2023,contender,CHN,CHN
+2023-01-12,Lim Jonghoon,Liang Jingkun,Lim Jonghoon,4-3,WTT Star Contender Goa 2023,contender,KOR,CHN
+2023-01-12,Ma Long,Timo Boll,Ma Long,4-1,WTT Star Contender Goa 2023,contender,CHN,GER
+2023-01-12,Quadri Aruna,Wang Chuqin,Wang Chuqin,1-4,WTT Star Contender Goa 2023,contender,NGR,CHN
+2023-01-12,Wang Chuqin,Lim Jonghoon,Wang Chuqin,4-2,WTT Star Contender Goa 2023,contender,CHN,KOR
+2023-01-12,Jang Woojin,Wang Chuqin,Jang Woojin,4-2,WTT Star Contender Goa 2023,contender,KOR,CHN
+2023-01-13,Anton Kallberg,Zhao Zihao,Zhao Zihao,3-4,WTT Star Contender Goa 2023,contender,SWE,CHN
+2023-01-18,Xu Xin,Mattias Falck,Mattias Falck,3-4,WTT Feeder Antalya 2023,regular,CHN,SWE
+2023-01-18,Zhao Zihao,Anton Kallberg,Anton Kallberg,3-4,WTT Feeder Antalya 2023,regular,CHN,SWE
+2023-01-18,Chuang Chih-Yuan,Togami Shunsuke,Togami Shunsuke,1-4,WTT Feeder Antalya 2023,regular,TPE,JPN
+2023-01-18,Togami Shunsuke,Cho Daeseong,Cho Daeseong,2-4,WTT Feeder Antalya 2023,regular,JPN,KOR
+2023-01-18,Lin Gaoyuan,Cho Daeseong,Lin Gaoyuan,4-2,WTT Feeder Antalya 2023,regular,CHN,KOR
+2023-01-19,Lin Gaoyuan,Anton Kallberg,Lin Gaoyuan,4-1,WTT Feeder Antalya 2023,regular,CHN,SWE
+2023-01-20,Darko Jorgic,Felix Lebrun,Felix Lebrun,2-4,WTT Feeder Antalya 2023,regular,SLO,FRA
+2023-01-21,Mattias Falck,Quadri Aruna,Quadri Aruna,2-4,WTT Feeder Antalya 2023,regular,SWE,NGR
+2023-01-21,Quadri Aruna,Chuang Chih-Yuan,Chuang Chih-Yuan,3-4,WTT Feeder Antalya 2023,regular,NGR,TPE
+2023-01-21,Lin Gaoyuan,Yukiya Uda,Lin Gaoyuan,4-3,WTT Feeder Antalya 2023,regular,CHN,JPN
+2023-01-21,Timo Boll,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Feeder Antalya 2023,regular,GER,CHN
+2023-01-22,Timo Boll,Jang Woojin,Timo Boll,4-3,WTT Feeder Antalya 2023,regular,GER,KOR
+2023-01-22,Truls Moregardh,Darko Jorgic,Darko Jorgic,3-4,WTT Feeder Antalya 2023,regular,SWE,SLO
+2023-01-22,Cho Daeseong,Alexis Lebrun,Cho Daeseong,4-2,WTT Feeder Antalya 2023,regular,KOR,FRA
+2023-01-22,Lin Gaoyuan,Felix Lebrun,Lin Gaoyuan,4-2,WTT Feeder Antalya 2023,regular,CHN,FRA
+2023-02-03,Ma Long,Truls Moregardh,Ma Long,4-2,WTT Finals Fukuoka 2023,major,CHN,SWE
+2023-02-04,Fan Zhendong,Hugo Calderano,Fan Zhendong,4-2,WTT Finals Fukuoka 2023,major,CHN,BRA
+2023-02-04,Ma Long,Fan Zhendong,Fan Zhendong,3-4,WTT Finals Fukuoka 2023,major,CHN,CHN
+2023-02-06,Lin Gaoyuan,Tomokazu Harimoto,Lin Gaoyuan,4-3,WTT Finals Fukuoka 2023,major,CHN,JPN
+2023-02-06,Lin Gaoyuan,Ma Long,Ma Long,3-4,WTT Finals Fukuoka 2023,major,CHN,CHN
+2023-02-07,Liang Jingkun,Ma Long,Ma Long,3-4,WTT Finals Fukuoka 2023,major,CHN,CHN
+2023-02-08,Wang Chuqin,Ma Long,Ma Long,3-4,WTT Finals Fukuoka 2023,major,CHN,CHN
+2023-02-10,Fan Zhendong,Felix Lebrun,Fan Zhendong,4-3,WTT Champions Montpellier 2023,major,CHN,FRA
+2023-02-10,Wang Chuqin,Tomokazu Harimoto,Wang Chuqin,4-3,WTT Champions Montpellier 2023,major,CHN,JPN
+2023-02-10,Quadri Aruna,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Montpellier 2023,major,NGR,CHN
+2023-02-11,Fan Zhendong,Wang Chuqin,Fan Zhendong,4-2,WTT Champions Montpellier 2023,major,CHN,CHN
+2023-02-12,Patrick Franziska,Truls Moregardh,Truls Moregardh,3-4,WTT Champions Montpellier 2023,major,GER,SWE
+2023-02-12,Truls Moregardh,Wang Chuqin,Wang Chuqin,1-4,WTT Champions Montpellier 2023,major,SWE,CHN
+2023-02-13,Liang Jingkun,Fan Zhendong,Fan Zhendong,3-4,WTT Champions Montpellier 2023,major,CHN,CHN
+2023-02-13,Lin Gaoyuan,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Montpellier 2023,major,CHN,CHN
+2023-02-13,Dimitrij Ovtcharov,Lin Shidong,Dimitrij Ovtcharov,4-3,WTT Champions Montpellier 2023,major,GER,CHN
+2023-02-14,Fan Zhendong,Timo Boll,Fan Zhendong,4-1,WTT Champions Montpellier 2023,major,CHN,GER
+2023-02-14,Ma Long,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Montpellier 2023,major,CHN,CHN
+2023-02-14,Jang Woojin,Quadri Aruna,Quadri Aruna,3-4,WTT Champions Montpellier 2023,major,KOR,NGR
+2023-02-14,Wang Chuqin,Hugo Calderano,Wang Chuqin,4-3,WTT Champions Montpellier 2023,major,CHN,BRA
+2023-02-14,Dimitrij Ovtcharov,Fan Zhendong,Fan Zhendong,1-4,WTT Champions Montpellier 2023,major,GER,CHN
+2023-02-15,Fan Zhendong,Alexis Lebrun,Fan Zhendong,4-2,WTT Champions Montpellier 2023,major,CHN,FRA
+2023-03-23,Ma Long,Jang Woojin,Ma Long,4-2,WTT Contender Lagos 2023,contender,CHN,KOR
+2023-03-23,Darko Jorgic,Wang Chuqin,Wang Chuqin,0-4,WTT Contender Lagos 2023,contender,SLO,CHN
+2023-03-23,Zhao Zihao,Dang Qiu,Zhao Zihao,4-2,WTT Contender Lagos 2023,contender,CHN,GER
+2023-03-24,Cho Daeseong,Wang Chuqin,Wang Chuqin,0-4,WTT Contender Lagos 2023,contender,KOR,CHN
+2023-03-25,Ma Long,Patrick Franziska,Ma Long,4-1,WTT Champions Frankfurt 2023,major,CHN,GER
+2023-03-25,Tomokazu Harimoto,Wang Chuqin,Wang Chuqin,1-4,WTT Contender Lagos 2023,contender,JPN,CHN
+2023-03-26,Dimitrij Ovtcharov,Truls Moregardh,Truls Moregardh,3-4,WTT Champions Frankfurt 2023,major,GER,SWE
+2023-03-26,Fan Zhendong,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Frankfurt 2023,major,CHN,CHN
+2023-03-26,Quadri Aruna,Jang Woojin,Jang Woojin,3-4,WTT Contender Lagos 2023,contender,NGR,KOR
+2023-03-26,Marcos Freitas,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Contender Lagos 2023,contender,POR,JPN
+2023-03-26,Timo Boll,Dang Qiu,Dang Qiu,2-4,WTT Contender Lagos 2023,contender,GER,GER
+2023-03-26,Mattias Falck,Cho Daeseong,Cho Daeseong,3-4,WTT Contender Lagos 2023,contender,SWE,KOR
+2023-03-26,Ma Long,Omar Assar,Ma Long,4-0,WTT Contender Lagos 2023,contender,CHN,EGY
+2023-03-27,Fan Zhendong,Lin Gaoyuan,Fan Zhendong,4-2,WTT Champions Frankfurt 2023,major,CHN,CHN
+2023-03-27,Jang Woojin,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Frankfurt 2023,major,KOR,CHN
+2023-03-27,Tomokazu Harimoto,Anton Kallberg,Tomokazu Harimoto,4-3,WTT Contender Lagos 2023,contender,JPN,SWE
+2023-03-27,Wang Chuqin,Ma Long,Wang Chuqin,4-3,WTT Contender Lagos 2023,contender,CHN,CHN
+2023-03-28,Fan Zhendong,Alexis Lebrun,Fan Zhendong,4-1,WTT Champions Frankfurt 2023,major,CHN,FRA
+2023-03-28,Lin Shidong,Quadri Aruna,Quadri Aruna,2-4,WTT Champions Frankfurt 2023,major,CHN,NGR
+2023-03-28,Wang Chuqin,Liang Jingkun,Wang Chuqin,4-3,WTT Champions Frankfurt 2023,major,CHN,CHN
+2023-03-28,Hugo Calderano,Tomokazu Harimoto,Tomokazu Harimoto,2-4,WTT Champions Frankfurt 2023,major,BRA,JPN
+2023-03-28,Truls Moregardh,Ma Long,Ma Long,3-4,WTT Champions Frankfurt 2023,major,SWE,CHN
+2023-03-28,Tomokazu Harimoto,Fan Zhendong,Fan Zhendong,2-4,WTT Champions Frankfurt 2023,major,JPN,CHN
+2023-03-28,Wang Chuqin,Ma Long,Wang Chuqin,4-2,WTT Champions Frankfurt 2023,major,CHN,CHN
+2023-03-28,Wang Chuqin,Felix Lebrun,Wang Chuqin,4-2,WTT Contender Lagos 2023,contender,CHN,FRA
+2023-03-28,Zhao Zihao,Wang Chuqin,Wang Chuqin,1-4,WTT Contender Lagos 2023,contender,CHN,CHN
+2023-03-28,Wang Chuqin,Patrick Franziska,Wang Chuqin,4-1,WTT Contender Lagos 2023,contender,CHN,GER
+2023-03-28,Patrick Franziska,Jang Woojin,Jang Woojin,3-4,WTT Contender Almaty 2023,contender,GER,KOR
+2023-03-28,Wang Chuqin,Darko Jorgic,Darko Jorgic,2-4,WTT Contender Almaty 2023,contender,CHN,SLO
+2023-03-29,Timo Boll,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Champions Frankfurt 2023,major,GER,JPN
+2023-03-29,Quadri Aruna,Jang Woojin,Jang Woojin,3-4,WTT Champions Frankfurt 2023,major,NGR,KOR
+2023-03-29,Lim Jonghoon,Dang Qiu,Dang Qiu,2-4,WTT Contender Almaty 2023,contender,KOR,GER
+2023-03-29,Alexis Lebrun,Liang Jingkun,Alexis Lebrun,4-3,WTT Contender Almaty 2023,contender,FRA,CHN
+2023-03-30,Felix Lebrun,Dimitrij Ovtcharov,Dimitrij Ovtcharov,3-4,WTT Champions Frankfurt 2023,major,FRA,GER
+2023-03-30,Tomokazu Harimoto,Wang Chuqin,Wang Chuqin,2-4,WTT Contender Almaty 2023,contender,JPN,CHN
+2023-03-30,Alexis Lebrun,Marcos Freitas,Alexis Lebrun,4-2,WTT Contender Almaty 2023,contender,FRA,POR
+2023-03-31,Can Akkuzu,Darko Jorgic,Darko Jorgic,3-4,WTT Contender Almaty 2023,contender,FRA,SLO
+2023-03-31,Felix Lebrun,Marcos Freitas,Marcos Freitas,3-4,WTT Contender Almaty 2023,contender,FRA,POR
+2023-04-01,Jang Woojin,Chuang Chih-Yuan,Jang Woojin,4-3,WTT Contender Almaty 2023,contender,KOR,TPE
+2023-04-01,Yukiya Uda,Dimitrij Ovtcharov,Yukiya Uda,4-3,WTT Contender Almaty 2023,contender,JPN,GER
+2023-04-02,Marcos Freitas,Truls Moregardh,Marcos Freitas,4-2,WTT Contender Almaty 2023,contender,POR,SWE
+2023-04-02,Dang Qiu,Yukiya Uda,Dang Qiu,4-3,WTT Contender Almaty 2023,contender,GER,JPN
+2023-04-02,Darko Jorgic,Felix Lebrun,Felix Lebrun,2-4,WTT Contender Almaty 2023,contender,SLO,FRA
+2023-04-02,Jang Woojin,Felix Lebrun,Felix Lebrun,3-4,WTT Contender Almaty 2023,contender,KOR,FRA
+2023-04-02,Felix Lebrun,Dang Qiu,Felix Lebrun,4-2,WTT Contender Almaty 2023,contender,FRA,GER
+2023-04-24,Zhao Zihao,Lim Jonghoon,Lim Jonghoon,3-4,WTT Star Contender Doha 2023,contender,CHN,KOR
+2023-04-24,Darko Jorgic,Fan Zhendong,Fan Zhendong,2-4,WTT Star Contender Doha 2023,contender,SLO,CHN
+2023-04-24,Fan Zhendong,Wang Chuqin,Fan Zhendong,4-3,WTT Star Contender Doha 2023,contender,CHN,CHN
+2023-04-24,Felix Lebrun,Fan Zhendong,Fan Zhendong,2-4,WTT Star Contender Doha 2023,contender,FRA,CHN
+2023-04-25,Hugo Calderano,Fan Zhendong,Fan Zhendong,3-4,WTT Star Contender Doha 2023,contender,BRA,CHN
+2023-04-25,Fan Zhendong,Jang Woojin,Fan Zhendong,4-1,WTT Star Contender Doha 2023,contender,CHN,KOR
+2023-04-25,Lin Shidong,Felix Lebrun,Felix Lebrun,2-4,WTT Star Contender Doha 2023,contender,CHN,FRA
+2023-04-26,Lim Jonghoon,Truls Moregardh,Truls Moregardh,3-4,WTT Star Contender Doha 2023,contender,KOR,SWE
+2023-04-26,Fan Zhendong,Anton Kallberg,Fan Zhendong,4-0,WTT Star Contender Doha 2023,contender,CHN,SWE
+2023-04-26,Fan Zhendong,Chuang Chih-Yuan,Fan Zhendong,4-2,WTT Star Contender Doha 2023,contender,CHN,TPE
+2023-04-27,Ma Long,Alexis Lebrun,Alexis Lebrun,3-4,WTT Star Contender Doha 2023,contender,CHN,FRA
+2023-04-27,Fan Zhendong,Truls Moregardh,Fan Zhendong,4-0,WTT Star Contender Doha 2023,contender,CHN,SWE
+2023-04-28,Fan Zhendong,Xu Xin,Fan Zhendong,4-1,WTT Star Contender Doha 2023,contender,CHN,CHN
+2023-04-28,Chuang Chih-Yuan,Alexis Lebrun,Chuang Chih-Yuan,4-3,WTT Star Contender Doha 2023,contender,TPE,FRA
+2023-04-29,Lin Gaoyuan,Xu Xin,Xu Xin,3-4,WTT Star Contender Doha 2023,contender,CHN,CHN
+2023-05-04,Fan Zhendong,Quadri Aruna,Fan Zhendong,4-1,WTT Star Contender Goa 2023,contender,CHN,NGR
+2023-05-04,Hugo Calderano,Tomokazu Harimoto,Hugo Calderano,4-3,WTT Star Contender Goa 2023,contender,BRA,JPN
+2023-05-04,Felix Lebrun,Liang Jingkun,Felix Lebrun,4-3,WTT Star Contender Goa 2023,contender,FRA,CHN
+2023-05-04,Zhao Zihao,Ma Long,Ma Long,2-4,WTT Star Contender Goa 2023,contender,CHN,CHN
+2023-05-04,Lin Gaoyuan,Hugo Calderano,Lin Gaoyuan,4-3,WTT Star Contender Goa 2023,contender,CHN,BRA
+2023-05-04,Fan Zhendong,Alexis Lebrun,Fan Zhendong,4-2,WTT Star Contender Goa 2023,contender,CHN,FRA
+2023-05-04,Ma Long,Chuang Chih-Yuan,Ma Long,4-1,WTT Star Contender Goa 2023,contender,CHN,TPE
+2023-05-05,Ma Long,Lim Jonghoon,Ma Long,4-2,WTT Star Contender Goa 2023,contender,CHN,KOR
+2023-05-05,Ma Long,Fan Zhendong,Fan Zhendong,3-4,WTT Star Contender Goa 2023,contender,CHN,CHN
+2023-05-06,Timo Boll,Felix Lebrun,Felix Lebrun,2-4,WTT Star Contender Goa 2023,contender,GER,FRA
+2023-05-06,Jang Woojin,Xu Xin,Xu Xin,2-4,WTT Star Contender Goa 2023,contender,KOR,CHN
+2023-05-07,Felix Lebrun,Fan Zhendong,Fan Zhendong,2-4,WTT Star Contender Goa 2023,contender,FRA,CHN
+2023-05-08,Truls Moregardh,Tomokazu Harimoto,Tomokazu Harimoto,2-4,WTT Star Contender Goa 2023,contender,SWE,JPN
+2023-05-09,Xu Xin,Felix Lebrun,Felix Lebrun,3-4,WTT Star Contender Goa 2023,contender,CHN,FRA
+2023-05-09,Lin Gaoyuan,Ma Long,Ma Long,3-4,WTT Star Contender Goa 2023,contender,CHN,CHN
+2023-05-16,Fan Zhendong,Alexis Lebrun,Alexis Lebrun,0-4,WTT Champions Incheon 2023,major,CHN,FRA
+2023-05-16,Jang Woojin,Wang Chuqin,Wang Chuqin,1-4,WTT Champions Incheon 2023,major,KOR,CHN
+2023-05-17,Lin Gaoyuan,Patrick Franziska,Lin Gaoyuan,4-2,WTT Champions Incheon 2023,major,CHN,GER
+2023-05-17,Ma Long,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Champions Incheon 2023,major,CHN,CHN
+2023-05-17,Tomokazu Harimoto,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Incheon 2023,major,JPN,CHN
+2023-05-17,Hugo Calderano,Jang Woojin,Jang Woojin,3-4,WTT Champions Incheon 2023,major,BRA,KOR
+2023-05-18,Truls Moregardh,Timo Boll,Truls Moregardh,4-3,WTT Champions Incheon 2023,major,SWE,GER
+2023-05-18,Dimitrij Ovtcharov,Hugo Calderano,Hugo Calderano,2-4,WTT Champions Incheon 2023,major,GER,BRA
+2023-05-18,Tomokazu Harimoto,Liang Jingkun,Tomokazu Harimoto,4-2,WTT Champions Incheon 2023,major,JPN,CHN
+2023-05-18,Wang Chuqin,Lin Gaoyuan,Wang Chuqin,4-1,WTT Champions Incheon 2023,major,CHN,CHN
+2023-05-19,Quadri Aruna,Tomokazu Harimoto,Tomokazu Harimoto,2-4,WTT Champions Incheon 2023,major,NGR,JPN
+2023-05-20,Tomokazu Harimoto,Truls Moregardh,Tomokazu Harimoto,4-3,WTT Champions Incheon 2023,major,JPN,SWE
+2023-05-20,Lin Shidong,Liang Jingkun,Liang Jingkun,2-4,WTT Champions Incheon 2023,major,CHN,CHN
+2023-05-21,Liang Jingkun,Felix Lebrun,Liang Jingkun,4-3,WTT Champions Incheon 2023,major,CHN,FRA
+2023-05-21,Alexis Lebrun,Ma Long,Ma Long,3-4,WTT Champions Incheon 2023,major,FRA,CHN
+2023-06-26,Timo Boll,Marcos Freitas,Marcos Freitas,2-4,WTT Feeder Dusseldorf 2023,regular,GER,POR
+2023-06-26,Yukiya Uda,Alexis Lebrun,Yukiya Uda,4-2,WTT Feeder Dusseldorf 2023,regular,JPN,FRA
+2023-06-26,Jang Woojin,Yukiya Uda,Jang Woojin,4-3,WTT Feeder Dusseldorf 2023,regular,KOR,JPN
+2023-06-27,Patrick Franziska,Anton Kallberg,Anton Kallberg,2-4,WTT Feeder Dusseldorf 2023,regular,GER,SWE
+2023-06-27,Dang Qiu,Jang Woojin,Dang Qiu,4-2,WTT Feeder Dusseldorf 2023,regular,GER,KOR
+2023-06-28,Dang Qiu,Lim Jonghoon,Dang Qiu,4-2,WTT Feeder Dusseldorf 2023,regular,GER,KOR
+2023-06-28,Tomokazu Harimoto,Dang Qiu,Tomokazu Harimoto,4-2,WTT Feeder Dusseldorf 2023,regular,JPN,GER
+2023-06-29,Hugo Calderano,Dimitrij Ovtcharov,Dimitrij Ovtcharov,2-4,WTT Feeder Dusseldorf 2023,regular,BRA,GER
+2023-06-30,Marcos Freitas,Can Akkuzu,Marcos Freitas,4-3,WTT Feeder Dusseldorf 2023,regular,POR,FRA
+2023-06-30,Dang Qiu,Cho Daeseong,Dang Qiu,4-3,WTT Feeder Dusseldorf 2023,regular,GER,KOR
+2023-06-30,Chuang Chih-Yuan,Dang Qiu,Dang Qiu,2-4,WTT Feeder Dusseldorf 2023,regular,TPE,GER
+2023-06-30,Dimitrij Ovtcharov,Jang Woojin,Jang Woojin,2-4,WTT Feeder Dusseldorf 2023,regular,GER,KOR
+2023-07-01,Tomokazu Harimoto,Togami Shunsuke,Tomokazu Harimoto,4-3,WTT Feeder Dusseldorf 2023,regular,JPN,JPN
+2023-07-01,Anton Kallberg,Tomokazu Harimoto,Tomokazu Harimoto,1-4,WTT Feeder Dusseldorf 2023,regular,SWE,JPN
+2023-07-01,Marcos Freitas,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Feeder Dusseldorf 2023,regular,POR,JPN
+2023-07-10,Zhao Zihao,Lin Shidong,Zhao Zihao,4-3,ITTF World Championships Busan 2023,grand_slam,CHN,CHN
+2023-07-10,Truls Moregardh,Liang Jingkun,Liang Jingkun,3-4,ITTF World Championships Busan 2023,grand_slam,SWE,CHN
+2023-07-11,Chuang Chih-Yuan,Darko Jorgic,Darko Jorgic,3-4,ITTF World Championships Durban 2023,grand_slam,TPE,SLO
+2023-07-11,Lim Jonghoon,Xu Xin,Lim Jonghoon,4-3,ITTF World Championships Durban 2023,grand_slam,KOR,CHN
+2023-07-11,Timo Boll,Ma Long,Ma Long,0-4,ITTF World Championships Durban 2023,grand_slam,GER,CHN
+2023-07-11,Patrick Franziska,Omar Assar,Patrick Franziska,4-2,ITTF World Championships Busan 2023,grand_slam,GER,EGY
+2023-07-11,Liang Jingkun,Marcos Freitas,Liang Jingkun,4-3,ITTF World Championships Busan 2023,grand_slam,CHN,POR
+2023-07-11,Liang Jingkun,Zhao Zihao,Liang Jingkun,4-2,ITTF World Championships Busan 2023,grand_slam,CHN,CHN
+2023-07-11,Patrick Franziska,Felix Lebrun,Felix Lebrun,2-4,ITTF World Championships Busan 2023,grand_slam,GER,FRA
+2023-07-12,Liang Jingkun,Tomokazu Harimoto,Tomokazu Harimoto,3-4,ITTF World Championships Durban 2023,grand_slam,CHN,JPN
+2023-07-12,Fan Zhendong,Felix Lebrun,Felix Lebrun,3-4,ITTF World Championships Busan 2023,grand_slam,CHN,FRA
+2023-07-12,Quadri Aruna,Patrick Franziska,Patrick Franziska,2-4,ITTF World Championships Busan 2023,grand_slam,NGR,GER
+2023-07-13,Ma Long,Lim Jonghoon,Ma Long,4-2,ITTF World Championships Durban 2023,grand_slam,CHN,KOR
+2023-07-13,Timo Boll,Can Akkuzu,Timo Boll,4-2,ITTF World Championships Durban 2023,grand_slam,GER,FRA
+2023-07-13,Felix Lebrun,Lim Jonghoon,Felix Lebrun,4-3,ITTF World Championships Busan 2023,grand_slam,FRA,KOR
+2023-07-13,Can Akkuzu,Liang Jingkun,Liang Jingkun,2-4,ITTF World Championships Busan 2023,grand_slam,FRA,CHN
+2023-07-14,Hugo Calderano,Quadri Aruna,Hugo Calderano,4-2,WTT Champions Montpellier 2023,major,BRA,NGR
+2023-07-14,Ma Long,Alexis Lebrun,Ma Long,4-3,WTT Champions Montpellier 2023,major,CHN,FRA
+2023-07-14,Xu Xin,Yukiya Uda,Xu Xin,4-2,ITTF World Championships Durban 2023,grand_slam,CHN,JPN
+2023-07-14,Dimitrij Ovtcharov,Lin Gaoyuan,Lin Gaoyuan,3-4,ITTF World Championships Durban 2023,grand_slam,GER,CHN
+2023-07-14,Ma Long,Hugo Calderano,Ma Long,4-3,ITTF World Championships Durban 2023,grand_slam,CHN,BRA
+2023-07-14,Cho Daeseong,Darko Jorgic,Darko Jorgic,3-4,ITTF World Championships Durban 2023,grand_slam,KOR,SLO
+2023-07-14,Can Akkuzu,Timo Boll,Can Akkuzu,4-3,ITTF World Championships Busan 2023,grand_slam,FRA,GER
+2023-07-14,Felix Lebrun,Jang Woojin,Felix Lebrun,4-3,ITTF World Championships Busan 2023,grand_slam,FRA,KOR
+2023-07-14,Liang Jingkun,Felix Lebrun,Liang Jingkun,4-2,ITTF World Championships Busan 2023,grand_slam,CHN,FRA
+2023-07-15,Liang Jingkun,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Champions Montpellier 2023,major,CHN,JPN
+2023-07-15,Alexis Lebrun,Ma Long,Ma Long,1-4,ITTF World Championships Durban 2023,grand_slam,FRA,CHN
+2023-07-15,Timo Boll,Darko Jorgic,Timo Boll,4-3,ITTF World Championships Durban 2023,grand_slam,GER,SLO
+2023-07-15,Jang Woojin,Yukiya Uda,Jang Woojin,4-3,ITTF World Championships Busan 2023,grand_slam,KOR,JPN
+2023-07-15,Xu Xin,Omar Assar,Omar Assar,3-4,ITTF World Championships Busan 2023,grand_slam,CHN,EGY
+2023-07-16,Timo Boll,Truls Moregardh,Truls Moregardh,2-4,WTT Champions Montpellier 2023,major,GER,SWE
+2023-07-16,Patrick Franziska,Felix Lebrun,Felix Lebrun,2-4,WTT Champions Montpellier 2023,major,GER,FRA
+2023-07-16,Ma Long,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Montpellier 2023,major,CHN,CHN
+2023-07-16,Ma Long,Jang Woojin,Ma Long,4-3,ITTF World Championships Durban 2023,grand_slam,CHN,KOR
+2023-07-16,Ma Long,Lin Gaoyuan,Ma Long,4-2,ITTF World Championships Durban 2023,grand_slam,CHN,CHN
+2023-07-16,Tomokazu Harimoto,Ma Long,Ma Long,3-4,ITTF World Championships Durban 2023,grand_slam,JPN,CHN
+2023-07-17,Ma Long,Hugo Calderano,Ma Long,4-3,WTT Champions Montpellier 2023,major,CHN,BRA
+2023-07-17,Truls Moregardh,Lin Shidong,Truls Moregardh,4-3,WTT Champions Montpellier 2023,major,SWE,CHN
+2023-07-17,Wang Chuqin,Tomokazu Harimoto,Wang Chuqin,4-3,WTT Champions Montpellier 2023,major,CHN,JPN
+2023-07-17,Felix Lebrun,Truls Moregardh,Truls Moregardh,2-4,WTT Champions Montpellier 2023,major,FRA,SWE
+2023-07-17,Truls Moregardh,Wang Chuqin,Wang Chuqin,0-4,WTT Champions Montpellier 2023,major,SWE,CHN
+2023-07-17,Fan Zhendong,Wang Chuqin,Fan Zhendong,4-2,WTT Champions Montpellier 2023,major,CHN,CHN
+2023-07-18,Lin Gaoyuan,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Montpellier 2023,major,CHN,CHN
+2023-07-18,Jang Woojin,Hugo Calderano,Hugo Calderano,2-4,WTT Champions Montpellier 2023,major,KOR,BRA
+2023-07-18,Dimitrij Ovtcharov,Ma Long,Ma Long,1-4,WTT Champions Montpellier 2023,major,GER,CHN
+2023-09-07,Liang Jingkun,Togami Shunsuke,Togami Shunsuke,2-4,WTT Contender Tunis 2023,contender,CHN,JPN
+2023-09-07,Truls Moregardh,Fan Zhendong,Fan Zhendong,2-4,WTT Contender Tunis 2023,contender,SWE,CHN
+2023-09-08,Lin Shidong,Patrick Franziska,Patrick Franziska,2-4,WTT Contender Tunis 2023,contender,CHN,GER
+2023-09-08,Tomokazu Harimoto,Yukiya Uda,Tomokazu Harimoto,4-3,WTT Contender Tunis 2023,contender,JPN,JPN
+2023-09-08,Tomokazu Harimoto,Felix Lebrun,Felix Lebrun,3-4,WTT Contender Tunis 2023,contender,JPN,FRA
+2023-09-08,Anton Kallberg,Dimitrij Ovtcharov,Anton Kallberg,4-2,WTT Contender Tunis 2023,contender,SWE,GER
+2023-09-08,Fan Zhendong,Cho Daeseong,Fan Zhendong,4-0,WTT Contender Tunis 2023,contender,CHN,KOR
+2023-09-08,Wang Chuqin,Fan Zhendong,Fan Zhendong,3-4,WTT Contender Tunis 2023,contender,CHN,CHN
+2023-09-09,Truls Moregardh,Can Akkuzu,Truls Moregardh,4-3,WTT Contender Tunis 2023,contender,SWE,FRA
+2023-09-09,Lim Jonghoon,Togami Shunsuke,Togami Shunsuke,3-4,WTT Contender Tunis 2023,contender,KOR,JPN
+2023-09-10,Jang Woojin,Anton Kallberg,Anton Kallberg,3-4,WTT Contender Tunis 2023,contender,KOR,SWE
+2023-09-10,Truls Moregardh,Hugo Calderano,Truls Moregardh,4-2,WTT Contender Tunis 2023,contender,SWE,BRA
+2023-09-10,Chuang Chih-Yuan,Felix Lebrun,Felix Lebrun,2-4,WTT Contender Tunis 2023,contender,TPE,FRA
+2023-09-10,Lim Jonghoon,Anton Kallberg,Lim Jonghoon,4-3,WTT Contender Tunis 2023,contender,KOR,SWE
+2023-09-10,Fan Zhendong,Darko Jorgic,Fan Zhendong,4-1,WTT Contender Tunis 2023,contender,CHN,SLO
+2023-09-10,Togami Shunsuke,Fan Zhendong,Fan Zhendong,1-4,WTT Contender Tunis 2023,contender,JPN,CHN
+2023-09-10,Fan Zhendong,Tomokazu Harimoto,Fan Zhendong,4-3,WTT Contender Tunis 2023,contender,CHN,JPN
+2023-09-11,Marcos Freitas,Anton Kallberg,Marcos Freitas,4-2,WTT Contender Tunis 2023,contender,POR,SWE
+2023-09-11,Truls Moregardh,Lin Gaoyuan,Truls Moregardh,4-2,WTT Contender Tunis 2023,contender,SWE,CHN
+2023-09-11,Yukiya Uda,Xu Xin,Xu Xin,3-4,WTT Contender Tunis 2023,contender,JPN,CHN
+2023-09-11,Darko Jorgic,Lin Shidong,Darko Jorgic,4-2,WTT Contender Tunis 2023,contender,SLO,CHN
+2023-09-11,Xu Xin,Wang Chuqin,Wang Chuqin,3-4,WTT Contender Tunis 2023,contender,CHN,CHN
+2023-09-12,Marcos Freitas,Yukiya Uda,Yukiya Uda,3-4,WTT Contender Tunis 2023,contender,POR,JPN
+2023-09-12,Lin Gaoyuan,Patrick Franziska,Lin Gaoyuan,4-3,WTT Contender Tunis 2023,contender,CHN,GER
+2023-09-12,Tomokazu Harimoto,Truls Moregardh,Tomokazu Harimoto,4-3,WTT Contender Tunis 2023,contender,JPN,SWE
+2023-09-12,Darko Jorgic,Mattias Falck,Darko Jorgic,4-3,WTT Contender Tunis 2023,contender,SLO,SWE
+2023-09-12,Zhao Zihao,Truls Moregardh,Truls Moregardh,2-4,WTT Contender Tunis 2023,contender,CHN,SWE
+2023-09-13,Dang Qiu,Zhao Zihao,Dang Qiu,4-3,WTT Contender Tunis 2023,contender,GER,CHN
+2023-09-13,Lin Gaoyuan,Togami Shunsuke,Lin Gaoyuan,4-3,WTT Contender Tunis 2023,contender,CHN,JPN
+2023-09-13,Truls Moregardh,Dang Qiu,Truls Moregardh,4-2,WTT Contender Tunis 2023,contender,SWE,GER
+2023-10-05,Quadri Aruna,Lin Shidong,Lin Shidong,2-4,ITTF World Championships Durban 2023,grand_slam,NGR,CHN
+2023-10-06,Omar Assar,Darko Jorgic,Darko Jorgic,2-4,WTT Contender Rio 2023,contender,EGY,SLO
+2023-10-06,Ma Long,Togami Shunsuke,Ma Long,4-2,WTT Contender Rio 2023,contender,CHN,JPN
+2023-10-06,Anton Kallberg,Alexis Lebrun,Alexis Lebrun,2-4,WTT Contender Rio 2023,contender,SWE,FRA
+2023-10-06,Jang Woojin,Chuang Chih-Yuan,Jang Woojin,4-3,WTT Contender Rio 2023,contender,KOR,TPE
+2023-10-06,Jang Woojin,Ma Long,Ma Long,3-4,WTT Contender Rio 2023,contender,KOR,CHN
+2023-10-06,Chuang Chih-Yuan,Cho Daeseong,Cho Daeseong,2-4,ITTF World Championships Durban 2023,grand_slam,TPE,KOR
+2023-10-06,Anton Kallberg,Ma Long,Ma Long,2-4,ITTF World Championships Durban 2023,grand_slam,SWE,CHN
+2023-10-06,Cho Daeseong,Timo Boll,Cho Daeseong,4-2,ITTF World Championships Durban 2023,grand_slam,KOR,GER
+2023-10-07,Jang Woojin,Cho Daeseong,Jang Woojin,4-2,WTT Contender Rio 2023,contender,KOR,KOR
+2023-10-07,Liang Jingkun,Timo Boll,Liang Jingkun,4-2,WTT Contender Rio 2023,contender,CHN,GER
+2023-10-07,Jang Woojin,Darko Jorgic,Jang Woojin,4-2,WTT Contender Rio 2023,contender,KOR,SLO
+2023-10-07,Wang Chuqin,Dimitrij Ovtcharov,Wang Chuqin,4-1,WTT Contender Rio 2023,contender,CHN,GER
+2023-10-07,Dimitrij Ovtcharov,Lim Jonghoon,Dimitrij Ovtcharov,4-3,ITTF World Championships Durban 2023,grand_slam,GER,KOR
+2023-10-07,Cho Daeseong,Dang Qiu,Dang Qiu,2-4,ITTF World Championships Durban 2023,grand_slam,KOR,GER
+2023-10-08,Ma Long,Wang Chuqin,Wang Chuqin,3-4,WTT Contender Rio 2023,contender,CHN,CHN
+2023-10-08,Wang Chuqin,Alexis Lebrun,Wang Chuqin,4-0,WTT Contender Rio 2023,contender,CHN,FRA
+2023-10-08,Jang Woojin,Patrick Franziska,Jang Woojin,4-2,ITTF World Championships Durban 2023,grand_slam,KOR,GER
+2023-10-08,Lin Shidong,Ma Long,Ma Long,2-4,ITTF World Championships Durban 2023,grand_slam,CHN,CHN
+2023-10-08,Alexis Lebrun,Omar Assar,Alexis Lebrun,4-2,ITTF World Championships Durban 2023,grand_slam,FRA,EGY
+2023-10-08,Dimitrij Ovtcharov,Yukiya Uda,Yukiya Uda,3-4,ITTF World Championships Durban 2023,grand_slam,GER,JPN
+2023-10-08,Yukiya Uda,Xu Xin,Xu Xin,3-4,ITTF World Championships Durban 2023,grand_slam,JPN,CHN
+2023-10-08,Xu Xin,Ma Long,Ma Long,3-4,ITTF World Championships Durban 2023,grand_slam,CHN,CHN
+2023-10-09,Wang Chuqin,Liang Jingkun,Wang Chuqin,4-3,WTT Contender Rio 2023,contender,CHN,CHN
+2023-10-09,Tomokazu Harimoto,Wang Chuqin,Wang Chuqin,3-4,WTT Contender Rio 2023,contender,JPN,CHN
+2023-10-09,Quadri Aruna,Wang Chuqin,Wang Chuqin,1-4,WTT Contender Rio 2023,contender,NGR,CHN
+2023-10-09,Wang Chuqin,Liang Jingkun,Wang Chuqin,4-3,WTT Cup Finals Xinxiang 2023,major,CHN,CHN
+2023-10-09,Dimitrij Ovtcharov,Jang Woojin,Dimitrij Ovtcharov,4-2,ITTF World Championships Durban 2023,grand_slam,GER,KOR
+2023-10-09,Alexis Lebrun,Xu Xin,Xu Xin,3-4,ITTF World Championships Durban 2023,grand_slam,FRA,CHN
+2023-10-10,Lin Gaoyuan,Dimitrij Ovtcharov,Dimitrij Ovtcharov,2-4,WTT Contender Rio 2023,contender,CHN,GER
+2023-10-10,Wang Chuqin,Hugo Calderano,Wang Chuqin,4-2,WTT Cup Finals Xinxiang 2023,major,CHN,BRA
+2023-10-10,Dang Qiu,Ma Long,Ma Long,3-4,ITTF World Championships Durban 2023,grand_slam,GER,CHN
+2023-10-11,Ma Long,Fan Zhendong,Fan Zhendong,3-4,WTT Cup Finals Xinxiang 2023,major,CHN,CHN
+2023-10-11,Tomokazu Harimoto,Fan Zhendong,Fan Zhendong,2-4,WTT Cup Finals Xinxiang 2023,major,JPN,CHN
+2023-10-12,Fan Zhendong,Wang Chuqin,Wang Chuqin,3-4,WTT Cup Finals Xinxiang 2023,major,CHN,CHN
+2023-10-14,Truls Moregardh,Ma Long,Ma Long,3-4,WTT Cup Finals Xinxiang 2023,major,SWE,CHN
+2023-10-14,Fan Zhendong,Lin Gaoyuan,Fan Zhendong,4-1,WTT Cup Finals Xinxiang 2023,major,CHN,CHN
+2023-10-28,Lim Jonghoon,Lin Shidong,Lin Shidong,3-4,WTT Contender Beirut 2023,contender,KOR,CHN
+2023-10-28,Anton Kallberg,Lin Gaoyuan,Lin Gaoyuan,3-4,WTT Contender Beirut 2023,contender,SWE,CHN
+2023-10-28,Truls Moregardh,Dimitrij Ovtcharov,Dimitrij Ovtcharov,3-4,WTT Contender Beirut 2023,contender,SWE,GER
+2023-10-29,Quadri Aruna,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Contender Beirut 2023,contender,NGR,CHN
+2023-10-29,Lim Jonghoon,Xu Xin,Lim Jonghoon,4-3,WTT Contender Beirut 2023,contender,KOR,CHN
+2023-10-29,Lin Shidong,Wang Chuqin,Wang Chuqin,1-4,WTT Contender Beirut 2023,contender,CHN,CHN
+2023-10-30,Marcos Freitas,Truls Moregardh,Truls Moregardh,3-4,WTT Contender Beirut 2023,contender,POR,SWE
+2023-10-31,Omar Assar,Mattias Falck,Mattias Falck,3-4,WTT Contender Beirut 2023,contender,EGY,SWE
+2023-10-31,Mattias Falck,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Contender Beirut 2023,contender,SWE,CHN
+2023-10-31,Lin Gaoyuan,Wang Chuqin,Wang Chuqin,1-4,WTT Contender Beirut 2023,contender,CHN,CHN
+2023-10-31,Dimitrij Ovtcharov,Wang Chuqin,Wang Chuqin,2-4,WTT Contender Beirut 2023,contender,GER,CHN
+2023-11-02,Jang Woojin,Patrick Franziska,Jang Woojin,4-2,WTT Contender Beirut 2023,contender,KOR,GER
+2023-11-02,Zhao Zihao,Hugo Calderano,Hugo Calderano,2-4,WTT Contender Beirut 2023,contender,CHN,BRA
+2023-11-02,Jang Woojin,Truls Moregardh,Truls Moregardh,3-4,WTT Contender Beirut 2023,contender,KOR,SWE
+2023-11-02,Lin Gaoyuan,Hugo Calderano,Lin Gaoyuan,4-3,WTT Contender Beirut 2023,contender,CHN,BRA
+2023-11-11,Anton Kallberg,Jang Woojin,Jang Woojin,3-4,WTT Feeder Antalya 2023,regular,SWE,KOR
+2023-11-11,Marcos Freitas,Togami Shunsuke,Togami Shunsuke,2-4,WTT Feeder Antalya 2023,regular,POR,JPN
+2023-11-12,Zhao Zihao,Togami Shunsuke,Togami Shunsuke,2-4,WTT Feeder Antalya 2023,regular,CHN,JPN
+2023-11-12,Truls Moregardh,Togami Shunsuke,Togami Shunsuke,3-4,WTT Feeder Antalya 2023,regular,SWE,JPN
+2023-11-13,Marcos Freitas,Jang Woojin,Marcos Freitas,4-3,WTT Feeder Antalya 2023,regular,POR,KOR
+2023-11-13,Truls Moregardh,Xu Xin,Truls Moregardh,4-3,WTT Feeder Antalya 2023,regular,SWE,CHN
+2023-11-14,Patrick Franziska,Chuang Chih-Yuan,Chuang Chih-Yuan,2-4,WTT Feeder Antalya 2023,regular,GER,TPE
+2023-11-14,Togami Shunsuke,Lin Gaoyuan,Togami Shunsuke,4-2,WTT Feeder Antalya 2023,regular,JPN,CHN
+2023-11-15,Jang Woojin,Darko Jorgic,Jang Woojin,4-2,WTT Feeder Antalya 2023,regular,KOR,SLO
+2023-11-15,Xu Xin,Omar Assar,Xu Xin,4-2,WTT Feeder Antalya 2023,regular,CHN,EGY
+2023-11-15,Anton Kallberg,Can Akkuzu,Anton Kallberg,4-3,WTT Feeder Antalya 2023,regular,SWE,FRA
+2023-11-15,Anton Kallberg,Felix Lebrun,Anton Kallberg,4-2,WTT Feeder Antalya 2023,regular,SWE,FRA
+2023-11-16,Chuang Chih-Yuan,Timo Boll,Timo Boll,2-4,WTT Feeder Antalya 2023,regular,TPE,GER
+2023-11-16,Timo Boll,Togami Shunsuke,Togami Shunsuke,2-4,WTT Feeder Antalya 2023,regular,GER,JPN
+2023-11-16,Dang Qiu,Jang Woojin,Jang Woojin,3-4,WTT Feeder Antalya 2023,regular,GER,KOR
+2023-12-21,Wang Chuqin,Fan Zhendong,Fan Zhendong,3-4,WTT Champions Frankfurt 2023,major,CHN,CHN
+2023-12-22,Truls Moregardh,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Frankfurt 2023,major,SWE,CHN
+2023-12-22,Tomokazu Harimoto,Lin Shidong,Tomokazu Harimoto,4-1,WTT Champions Frankfurt 2023,major,JPN,CHN
+2023-12-23,Jang Woojin,Felix Lebrun,Felix Lebrun,3-4,WTT Champions Frankfurt 2023,major,KOR,FRA
+2023-12-23,Wang Chuqin,Alexis Lebrun,Wang Chuqin,4-0,WTT Champions Frankfurt 2023,major,CHN,FRA
+2023-12-24,Wang Chuqin,Timo Boll,Wang Chuqin,4-2,WTT Champions Frankfurt 2023,major,CHN,GER
+2023-12-24,Tomokazu Harimoto,Liang Jingkun,Liang Jingkun,3-4,WTT Champions Frankfurt 2023,major,JPN,CHN
+2023-12-24,Liang Jingkun,Fan Zhendong,Fan Zhendong,3-4,WTT Champions Frankfurt 2023,major,CHN,CHN
+2023-12-24,Felix Lebrun,Fan Zhendong,Fan Zhendong,1-4,WTT Champions Frankfurt 2023,major,FRA,CHN
+2023-12-25,Tomokazu Harimoto,Patrick Franziska,Tomokazu Harimoto,4-1,WTT Champions Frankfurt 2023,major,JPN,GER
+2023-12-25,Hugo Calderano,Timo Boll,Timo Boll,2-4,WTT Champions Frankfurt 2023,major,BRA,GER
+2023-12-25,Ma Long,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Frankfurt 2023,major,CHN,CHN
+2023-12-25,Dimitrij Ovtcharov,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Champions Frankfurt 2023,major,GER,JPN
+2023-12-26,Wang Chuqin,Quadri Aruna,Wang Chuqin,4-1,WTT Champions Frankfurt 2023,major,CHN,NGR
+2023-12-26,Wang Chuqin,Lin Gaoyuan,Wang Chuqin,4-3,WTT Champions Frankfurt 2023,major,CHN,CHN
+2024-02-11,Tomokazu Harimoto,Mattias Falck,Tomokazu Harimoto,4-2,WTT Contender Zagreb 2024,contender,JPN,SWE
+2024-02-11,Tomokazu Harimoto,Felix Lebrun,Tomokazu Harimoto,4-3,WTT Contender Zagreb 2024,contender,JPN,FRA
+2024-02-11,Tomokazu Harimoto,Quadri Aruna,Tomokazu Harimoto,4-2,WTT Contender Zagreb 2024,contender,JPN,NGR
+2024-02-11,Dang Qiu,Dimitrij Ovtcharov,Dimitrij Ovtcharov,3-4,WTT Contender Zagreb 2024,contender,GER,GER
+2024-02-12,Tomokazu Harimoto,Zhao Zihao,Tomokazu Harimoto,4-2,WTT Contender Zagreb 2024,contender,JPN,CHN
+2024-02-12,Lin Gaoyuan,Quadri Aruna,Quadri Aruna,3-4,WTT Contender Zagreb 2024,contender,CHN,NGR
+2024-02-13,Truls Moregardh,Can Akkuzu,Truls Moregardh,4-2,WTT Contender Zagreb 2024,contender,SWE,FRA
+2024-02-13,Tomokazu Harimoto,Dimitrij Ovtcharov,Tomokazu Harimoto,4-2,WTT Contender Zagreb 2024,contender,JPN,GER
+2024-02-14,Chuang Chih-Yuan,Truls Moregardh,Truls Moregardh,3-4,WTT Contender Zagreb 2024,contender,TPE,SWE
+2024-02-14,Can Akkuzu,Lin Shidong,Can Akkuzu,4-3,WTT Contender Zagreb 2024,contender,FRA,CHN
+2024-02-15,Lin Gaoyuan,Anton Kallberg,Lin Gaoyuan,4-2,WTT Contender Zagreb 2024,contender,CHN,SWE
+2024-02-15,Truls Moregardh,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Contender Zagreb 2024,contender,SWE,JPN
+2024-02-16,Xu Xin,Darko Jorgic,Xu Xin,4-3,WTT Contender Zagreb 2024,contender,CHN,SLO
+2024-02-16,Quadri Aruna,Alexis Lebrun,Quadri Aruna,4-3,WTT Contender Zagreb 2024,contender,NGR,FRA
+2024-02-16,Xu Xin,Tomokazu Harimoto,Tomokazu Harimoto,2-4,WTT Contender Zagreb 2024,contender,CHN,JPN
+2024-02-23,Lim Jonghoon,Can Akkuzu,Lim Jonghoon,4-2,ITTF World Championships Busan 2024,grand_slam,KOR,FRA
+2024-02-23,Hugo Calderano,Truls Moregardh,Hugo Calderano,4-3,ITTF World Championships Busan 2024,grand_slam,BRA,SWE
+2024-02-23,Lin Shidong,Jang Woojin,Jang Woojin,2-4,ITTF World Championships Busan 2024,grand_slam,CHN,KOR
+2024-02-23,Lim Jonghoon,Wang Chuqin,Wang Chuqin,2-4,ITTF World Championships Busan 2024,grand_slam,KOR,CHN
+2024-02-24,Anton Kallberg,Lin Shidong,Lin Shidong,2-4,ITTF World Championships Busan 2024,grand_slam,SWE,CHN
+2024-02-24,Hugo Calderano,Xu Xin,Hugo Calderano,4-3,ITTF World Championships Busan 2024,grand_slam,BRA,CHN
+2024-02-24,Marcos Freitas,Wang Chuqin,Wang Chuqin,2-4,ITTF World Championships Busan 2024,grand_slam,POR,CHN
+2024-02-24,Dang Qiu,Jang Woojin,Jang Woojin,3-4,ITTF World Championships Busan 2024,grand_slam,GER,KOR
+2024-02-25,Hugo Calderano,Wang Chuqin,Wang Chuqin,1-4,ITTF World Championships Busan 2024,grand_slam,BRA,CHN
+2024-02-26,Yukiya Uda,Truls Moregardh,Truls Moregardh,2-4,ITTF World Championships Busan 2024,grand_slam,JPN,SWE
+2024-02-26,Darko Jorgic,Jang Woojin,Jang Woojin,3-4,ITTF World Championships Busan 2024,grand_slam,SLO,KOR
+2024-02-26,Mattias Falck,Patrick Franziska,Mattias Falck,4-3,ITTF World Championships Busan 2024,grand_slam,SWE,GER
+2024-02-26,Hugo Calderano,Alexis Lebrun,Hugo Calderano,4-3,ITTF World Championships Busan 2024,grand_slam,BRA,FRA
+2024-02-26,Hugo Calderano,Mattias Falck,Hugo Calderano,4-1,ITTF World Championships Busan 2024,grand_slam,BRA,SWE
+2024-02-28,Wang Chuqin,Jang Woojin,Wang Chuqin,4-2,ITTF World Championships Busan 2024,grand_slam,CHN,KOR
+2024-03-28,Jang Woojin,Liang Jingkun,Liang Jingkun,2-4,WTT Champions Macao 2024,major,KOR,CHN
+2024-03-28,Wang Chuqin,Quadri Aruna,Wang Chuqin,4-2,WTT Champions Macao 2024,major,CHN,NGR
+2024-03-29,Wang Chuqin,Lin Gaoyuan,Wang Chuqin,4-2,WTT Champions Macao 2024,major,CHN,CHN
+2024-03-29,Wang Chuqin,Dimitrij Ovtcharov,Wang Chuqin,4-2,WTT Champions Macao 2024,major,CHN,GER
+2024-03-29,Liang Jingkun,Fan Zhendong,Fan Zhendong,3-4,WTT Champions Macao 2024,major,CHN,CHN
+2024-03-29,Wang Chuqin,Fan Zhendong,Wang Chuqin,4-3,WTT Champions Macao 2024,major,CHN,CHN
+2024-03-30,Lin Shidong,Patrick Franziska,Lin Shidong,4-3,WTT Champions Macao 2024,major,CHN,GER
+2024-03-30,Fan Zhendong,Lin Shidong,Fan Zhendong,4-0,WTT Champions Macao 2024,major,CHN,CHN
+2024-03-30,Wang Chuqin,Alexis Lebrun,Wang Chuqin,4-0,WTT Champions Macao 2024,major,CHN,FRA
+2024-04-01,Fan Zhendong,Ma Long,Fan Zhendong,4-1,WTT Champions Macao 2024,major,CHN,CHN
+2024-04-02,Timo Boll,Hugo Calderano,Hugo Calderano,1-4,WTT Champions Macao 2024,major,GER,BRA
+2024-04-02,Truls Moregardh,Fan Zhendong,Fan Zhendong,0-4,WTT Champions Macao 2024,major,SWE,CHN
+2024-04-02,Felix Lebrun,Wang Chuqin,Wang Chuqin,1-4,WTT Champions Macao 2024,major,FRA,CHN
+2024-04-02,Fan Zhendong,Tomokazu Harimoto,Fan Zhendong,4-3,WTT Champions Macao 2024,major,CHN,JPN
+2024-04-02,Hugo Calderano,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Macao 2024,major,BRA,CHN
+2024-05-07,Xu Xin,Felix Lebrun,Xu Xin,4-3,WTT Feeder Dusseldorf 2024,regular,CHN,FRA
+2024-05-07,Alexis Lebrun,Dang Qiu,Alexis Lebrun,4-3,WTT Feeder Dusseldorf 2024,regular,FRA,GER
+2024-05-07,Xu Xin,Alexis Lebrun,Alexis Lebrun,2-4,WTT Feeder Dusseldorf 2024,regular,CHN,FRA
+2024-05-08,Timo Boll,Darko Jorgic,Darko Jorgic,3-4,WTT Feeder Dusseldorf 2024,regular,GER,SLO
+2024-05-08,Zhao Zihao,Omar Assar,Zhao Zihao,4-2,WTT Feeder Dusseldorf 2024,regular,CHN,EGY
+2024-05-08,Zhao Zihao,Cho Daeseong,Cho Daeseong,3-4,WTT Feeder Dusseldorf 2024,regular,CHN,KOR
+2024-05-09,Chuang Chih-Yuan,Lim Jonghoon,Lim Jonghoon,2-4,WTT Feeder Dusseldorf 2024,regular,TPE,KOR
+2024-05-10,Darko Jorgic,Omar Assar,Omar Assar,3-4,WTT Feeder Dusseldorf 2024,regular,SLO,EGY
+2024-05-11,Dimitrij Ovtcharov,Timo Boll,Timo Boll,2-4,WTT Feeder Dusseldorf 2024,regular,GER,GER
+2024-05-11,Cho Daeseong,Lim Jonghoon,Cho Daeseong,4-3,WTT Feeder Dusseldorf 2024,regular,KOR,KOR
+2024-05-12,Darko Jorgic,Can Akkuzu,Darko Jorgic,4-2,WTT Feeder Dusseldorf 2024,regular,SLO,FRA
+2024-05-12,Patrick Franziska,Xu Xin,Xu Xin,2-4,WTT Feeder Dusseldorf 2024,regular,GER,CHN
+2024-05-12,Felix Lebrun,Quadri Aruna,Felix Lebrun,4-2,WTT Feeder Dusseldorf 2024,regular,FRA,NGR
+2024-05-12,Mattias Falck,Dang Qiu,Dang Qiu,3-4,WTT Feeder Dusseldorf 2024,regular,SWE,GER
+2024-05-12,Alexis Lebrun,Lim Jonghoon,Lim Jonghoon,3-4,WTT Feeder Dusseldorf 2024,regular,FRA,KOR
+2024-06-10,Tomokazu Harimoto,Wang Chuqin,Wang Chuqin,3-4,WTT Finals Nagoya 2024,major,JPN,CHN
+2024-06-10,Ma Long,Truls Moregardh,Ma Long,4-1,WTT Finals Nagoya 2024,major,CHN,SWE
+2024-06-11,Hugo Calderano,Fan Zhendong,Fan Zhendong,1-4,WTT Finals Nagoya 2024,major,BRA,CHN
+2024-06-11,Ma Long,Fan Zhendong,Fan Zhendong,2-4,WTT Finals Nagoya 2024,major,CHN,CHN
+2024-06-14,Fan Zhendong,Lin Gaoyuan,Fan Zhendong,4-0,WTT Finals Nagoya 2024,major,CHN,CHN
+2024-06-15,Liang Jingkun,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Finals Nagoya 2024,major,CHN,JPN
+2024-06-15,Wang Chuqin,Fan Zhendong,Fan Zhendong,3-4,WTT Finals Nagoya 2024,major,CHN,CHN
+2024-06-28,Chuang Chih-Yuan,Darko Jorgic,Darko Jorgic,3-4,WTT Star Contender Goa 2024,contender,TPE,SLO
+2024-06-28,Wang Chuqin,Alexis Lebrun,Wang Chuqin,4-2,WTT Star Contender Goa 2024,contender,CHN,FRA
+2024-06-28,Ma Long,Tomokazu Harimoto,Ma Long,4-3,WTT Star Contender Goa 2024,contender,CHN,JPN
+2024-06-29,Anton Kallberg,Wang Chuqin,Wang Chuqin,1-4,WTT Star Contender Goa 2024,contender,SWE,CHN
+2024-06-29,Timo Boll,Wang Chuqin,Wang Chuqin,1-4,WTT Star Contender Goa 2024,contender,GER,CHN
+2024-06-29,Felix Lebrun,Wang Chuqin,Wang Chuqin,3-4,WTT Star Contender Goa 2024,contender,FRA,CHN
+2024-06-30,Lin Gaoyuan,Cho Daeseong,Lin Gaoyuan,4-3,WTT Star Contender Goa 2024,contender,CHN,KOR
+2024-06-30,Lin Gaoyuan,Fan Zhendong,Fan Zhendong,2-4,WTT Star Contender Goa 2024,contender,CHN,CHN
+2024-07-01,Ma Long,Lin Shidong,Lin Shidong,1-4,WTT Star Contender Goa 2024,contender,CHN,CHN
+2024-07-02,Wang Chuqin,Quadri Aruna,Wang Chuqin,4-2,WTT Star Contender Goa 2024,contender,CHN,NGR
+2024-07-02,Lin Gaoyuan,Darko Jorgic,Lin Gaoyuan,4-3,WTT Star Contender Goa 2024,contender,CHN,SLO
+2024-07-02,Zhao Zihao,Timo Boll,Timo Boll,3-4,WTT Star Contender Goa 2024,contender,CHN,GER
+2024-07-02,Wang Chuqin,Fan Zhendong,Wang Chuqin,4-3,WTT Star Contender Goa 2024,contender,CHN,CHN
+2024-07-03,Felix Lebrun,Dimitrij Ovtcharov,Felix Lebrun,4-3,WTT Star Contender Goa 2024,contender,FRA,GER
+2024-07-03,Lin Shidong,Wang Chuqin,Wang Chuqin,2-4,WTT Star Contender Goa 2024,contender,CHN,CHN
+2024-07-27,Patrick Franziska,Cho Daeseong,Cho Daeseong,3-4,WTT Star Contender Doha 2024,contender,GER,KOR
+2024-07-27,Timo Boll,Liang Jingkun,Liang Jingkun,3-4,WTT Star Contender Doha 2024,contender,GER,CHN
+2024-07-27,Tomokazu Harimoto,Wang Chuqin,Wang Chuqin,2-4,WTT Star Contender Doha 2024,contender,JPN,CHN
+2024-07-27,Fan Zhendong,Wang Chuqin,Fan Zhendong,4-2,WTT Star Contender Doha 2024,contender,CHN,CHN
+2024-07-29,Xu Xin,Alexis Lebrun,Alexis Lebrun,3-4,WTT Star Contender Doha 2024,contender,CHN,FRA
+2024-07-29,Jang Woojin,Ma Long,Ma Long,2-4,WTT Star Contender Doha 2024,contender,KOR,CHN
+2024-07-29,Liang Jingkun,Wang Chuqin,Wang Chuqin,1-4,WTT Star Contender Doha 2024,contender,CHN,CHN
+2024-07-29,Fan Zhendong,Felix Lebrun,Fan Zhendong,4-2,WTT Star Contender Doha 2024,contender,CHN,FRA
+2024-07-30,Felix Lebrun,Cho Daeseong,Felix Lebrun,4-3,WTT Star Contender Doha 2024,contender,FRA,KOR
+2024-07-31,Alexis Lebrun,Zhao Zihao,Alexis Lebrun,4-2,WTT Star Contender Doha 2024,contender,FRA,CHN
+2024-07-31,Fan Zhendong,Lin Shidong,Fan Zhendong,4-1,WTT Star Contender Doha 2024,contender,CHN,CHN
+2024-07-31,Ma Long,Wang Chuqin,Wang Chuqin,2-4,WTT Star Contender Doha 2024,contender,CHN,CHN
+2024-08-01,Dang Qiu,Ma Long,Ma Long,3-4,WTT Star Contender Doha 2024,contender,GER,CHN
+2024-08-01,Liang Jingkun,Lim Jonghoon,Liang Jingkun,4-3,WTT Star Contender Doha 2024,contender,CHN,KOR
+2024-08-01,Fan Zhendong,Alexis Lebrun,Fan Zhendong,4-1,WTT Star Contender Doha 2024,contender,CHN,FRA
+2024-08-10,Hugo Calderano,Anton Kallberg,Hugo Calderano,4-1,WTT Contender Lima 2024,contender,BRA,SWE
+2024-08-10,Ma Long,Omar Assar,Ma Long,4-2,WTT Contender Lima 2024,contender,CHN,EGY
+2024-08-11,Can Akkuzu,Marcos Freitas,Marcos Freitas,3-4,WTT Contender Lima 2024,contender,FRA,POR
+2024-08-11,Ma Long,Darko Jorgic,Ma Long,4-3,WTT Contender Lima 2024,contender,CHN,SLO
+2024-08-12,Zhao Zihao,Ma Long,Ma Long,3-4,WTT Contender Lima 2024,contender,CHN,CHN
+2024-08-12,Wang Chuqin,Ma Long,Ma Long,3-4,WTT Contender Lima 2024,contender,CHN,CHN
+2024-08-12,Dang Qiu,Ma Long,Ma Long,1-4,WTT Contender Lima 2024,contender,GER,CHN
+2024-08-13,Truls Moregardh,Timo Boll,Truls Moregardh,4-2,WTT Contender Lima 2024,contender,SWE,GER
+2024-08-13,Quadri Aruna,Ma Long,Ma Long,0-4,WTT Contender Lima 2024,contender,NGR,CHN
+2024-08-14,Truls Moregardh,Hugo Calderano,Hugo Calderano,2-4,WTT Contender Lima 2024,contender,SWE,BRA
+2024-08-14,Dimitrij Ovtcharov,Liang Jingkun,Dimitrij Ovtcharov,4-2,WTT Contender Lima 2024,contender,GER,CHN
+2024-08-14,Darko Jorgic,Dimitrij Ovtcharov,Darko Jorgic,4-3,WTT Contender Lima 2024,contender,SLO,GER
+2024-08-15,Darko Jorgic,Marcos Freitas,Darko Jorgic,4-2,WTT Contender Lima 2024,contender,SLO,POR
+2024-08-15,Ma Long,Mattias Falck,Ma Long,4-1,WTT Contender Lima 2024,contender,CHN,SWE
+2024-08-15,Ma Long,Hugo Calderano,Ma Long,4-3,WTT Contender Lima 2024,contender,CHN,BRA
+2024-08-16,Marcos Freitas,Jang Woojin,Jang Woojin,3-4,WTT Contender Zagreb 2024,contender,POR,KOR
+2024-08-16,Cho Daeseong,Togami Shunsuke,Cho Daeseong,4-3,WTT Contender Zagreb 2024,contender,KOR,JPN
+2024-08-16,Lin Shidong,Fan Zhendong,Fan Zhendong,1-4,WTT Contender Zagreb 2024,contender,CHN,CHN
+2024-08-16,Alexis Lebrun,Fan Zhendong,Fan Zhendong,2-4,WTT Contender Zagreb 2024,contender,FRA,CHN
+2024-08-16,Can Akkuzu,Xu Xin,Xu Xin,1-4,WTT Contender Zagreb 2024,contender,FRA,CHN
+2024-08-17,Tomokazu Harimoto,Alexis Lebrun,Alexis Lebrun,3-4,WTT Contender Zagreb 2024,contender,JPN,FRA
+2024-08-17,Fan Zhendong,Jang Woojin,Fan Zhendong,4-2,WTT Contender Zagreb 2024,contender,CHN,KOR
+2024-08-18,Lin Shidong,Cho Daeseong,Lin Shidong,4-3,WTT Contender Zagreb 2024,contender,CHN,KOR
+2024-08-19,Omar Assar,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Contender Zagreb 2024,contender,EGY,CHN
+2024-08-19,Fan Zhendong,Yukiya Uda,Fan Zhendong,4-2,WTT Contender Zagreb 2024,contender,CHN,JPN
+2024-08-19,Lin Gaoyuan,Liang Jingkun,Liang Jingkun,2-4,WTT Contender Zagreb 2024,contender,CHN,CHN
+2024-08-19,Dimitrij Ovtcharov,Xu Xin,Xu Xin,2-4,WTT Contender Zagreb 2024,contender,GER,CHN
+2024-08-21,Cho Daeseong,Liang Jingkun,Liang Jingkun,1-4,WTT Contender Zagreb 2024,contender,KOR,CHN
+2024-08-21,Ma Long,Fan Zhendong,Fan Zhendong,1-4,WTT Contender Zagreb 2024,contender,CHN,CHN
+2024-08-21,Liang Jingkun,Xu Xin,Liang Jingkun,4-3,WTT Contender Zagreb 2024,contender,CHN,CHN
+2024-08-21,Liang Jingkun,Fan Zhendong,Fan Zhendong,1-4,WTT Contender Zagreb 2024,contender,CHN,CHN
+2024-08-22,Liang Jingkun,Chuang Chih-Yuan,Liang Jingkun,4-1,WTT Contender Zagreb 2024,contender,CHN,TPE
+2024-08-22,Hugo Calderano,Liang Jingkun,Liang Jingkun,2-4,WTT Contender Zagreb 2024,contender,BRA,CHN
+2024-08-22,Wang Chuqin,Patrick Franziska,Wang Chuqin,4-0,WTT Contender Zagreb 2024,contender,CHN,GER
+2024-08-23,Dimitrij Ovtcharov,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Contender Zagreb 2024,contender,GER,CHN
+2024-08-23,Lin Gaoyuan,Zhao Zihao,Zhao Zihao,3-4,WTT Contender Zagreb 2024,contender,CHN,CHN
+2024-08-24,Hugo Calderano,Xu Xin,Hugo Calderano,4-2,WTT Contender Zagreb 2024,contender,BRA,CHN
+2024-08-24,Liang Jingkun,Quadri Aruna,Liang Jingkun,4-3,WTT Contender Zagreb 2024,contender,CHN,NGR
+2024-08-24,Jang Woojin,Fan Zhendong,Fan Zhendong,1-4,WTT Contender Zagreb 2024,contender,KOR,CHN
+2024-08-25,Anton Kallberg,Darko Jorgic,Anton Kallberg,4-3,WTT Contender Zagreb 2024,contender,SWE,SLO
+2024-08-25,Anton Kallberg,Hugo Calderano,Hugo Calderano,3-4,WTT Contender Zagreb 2024,contender,SWE,BRA
+2024-08-25,Fan Zhendong,Timo Boll,Fan Zhendong,4-0,WTT Contender Zagreb 2024,contender,CHN,GER
+2024-08-25,Zhao Zihao,Jang Woojin,Jang Woojin,3-4,WTT Contender Zagreb 2024,contender,CHN,KOR
+2024-08-25,Fan Zhendong,Liang Jingkun,Fan Zhendong,4-3,WTT Contender Zagreb 2024,contender,CHN,CHN
+2024-08-26,Wang Chuqin,Fan Zhendong,Fan Zhendong,2-4,WTT Contender Zagreb 2024,contender,CHN,CHN
+2024-08-27,Fan Zhendong,Alexis Lebrun,Fan Zhendong,4-2,WTT Champions Chongqing 2024,major,CHN,FRA
+2024-08-27,Quadri Aruna,Hugo Calderano,Hugo Calderano,2-4,WTT Champions Chongqing 2024,major,NGR,BRA
+2024-08-27,Wang Chuqin,Ma Long,Wang Chuqin,4-3,WTT Champions Chongqing 2024,major,CHN,CHN
+2024-08-28,Lin Shidong,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Chongqing 2024,major,CHN,CHN
+2024-08-28,Tomokazu Harimoto,Hugo Calderano,Tomokazu Harimoto,4-3,WTT Champions Chongqing 2024,major,JPN,BRA
+2024-08-28,Lim Jonghoon,Zhao Zihao,Lim Jonghoon,4-2,WTT Contender Lagos 2024,contender,KOR,CHN
+2024-08-29,Wang Chuqin,Liang Jingkun,Wang Chuqin,4-2,WTT Champions Chongqing 2024,major,CHN,CHN
+2024-08-29,Wang Chuqin,Lin Gaoyuan,Wang Chuqin,4-3,WTT Champions Chongqing 2024,major,CHN,CHN
+2024-08-29,Liang Jingkun,Lim Jonghoon,Liang Jingkun,4-3,WTT Contender Lagos 2024,contender,CHN,KOR
+2024-08-29,Liang Jingkun,Patrick Franziska,Liang Jingkun,4-2,WTT Contender Lagos 2024,contender,CHN,GER
+2024-08-29,Anton Kallberg,Hugo Calderano,Hugo Calderano,1-4,WTT Contender Lagos 2024,contender,SWE,BRA
+2024-08-29,Togami Shunsuke,Liang Jingkun,Liang Jingkun,3-4,WTT Contender Lagos 2024,contender,JPN,CHN
+2024-08-30,Jang Woojin,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Chongqing 2024,major,KOR,CHN
+2024-08-30,Darko Jorgic,Jang Woojin,Darko Jorgic,4-2,WTT Contender Lagos 2024,contender,SLO,KOR
+2024-08-30,Patrick Franziska,Alexis Lebrun,Patrick Franziska,4-3,WTT Contender Lagos 2024,contender,GER,FRA
+2024-08-31,Xu Xin,Hugo Calderano,Hugo Calderano,3-4,WTT Contender Lagos 2024,contender,CHN,BRA
+2024-08-31,Can Akkuzu,Liang Jingkun,Liang Jingkun,2-4,WTT Contender Lagos 2024,contender,FRA,CHN
+2024-09-01,Truls Moregardh,Dimitrij Ovtcharov,Dimitrij Ovtcharov,3-4,WTT Champions Chongqing 2024,major,SWE,GER
+2024-09-01,Dimitrij Ovtcharov,Timo Boll,Dimitrij Ovtcharov,4-2,WTT Champions Chongqing 2024,major,GER,GER
+2024-09-01,Wang Chuqin,Felix Lebrun,Wang Chuqin,4-2,WTT Champions Chongqing 2024,major,CHN,FRA
+2024-09-01,Dimitrij Ovtcharov,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Chongqing 2024,major,GER,CHN
+2024-09-01,Patrick Franziska,Wang Chuqin,Wang Chuqin,2-4,WTT Champions Chongqing 2024,major,GER,CHN
+2024-09-01,Tomokazu Harimoto,Fan Zhendong,Tomokazu Harimoto,4-3,WTT Champions Chongqing 2024,major,JPN,CHN
+2024-09-01,Tomokazu Harimoto,Wang Chuqin,Wang Chuqin,3-4,WTT Champions Chongqing 2024,major,JPN,CHN
+2024-09-01,Truls Moregardh,Anton Kallberg,Anton Kallberg,2-4,WTT Contender Lagos 2024,contender,SWE,SWE
+2024-09-01,Darko Jorgic,Wang Chuqin,Wang Chuqin,2-4,WTT Contender Lagos 2024,contender,SLO,CHN
+2024-09-01,Timo Boll,Wang Chuqin,Wang Chuqin,0-4,WTT Contender Lagos 2024,contender,GER,CHN
+2024-09-01,Wang Chuqin,Hugo Calderano,Wang Chuqin,4-3,WTT Contender Lagos 2024,contender,CHN,BRA
+2024-09-01,Liang Jingkun,Wang Chuqin,Wang Chuqin,2-4,WTT Contender Lagos 2024,contender,CHN,CHN
+2024-09-01,Wang Chuqin,Marcos Freitas,Wang Chuqin,4-2,WTT Contender Lagos 2024,contender,CHN,POR
+2024-09-02,Ma Long,Truls Moregardh,Ma Long,4-1,WTT Finals Fukuoka 2024,major,CHN,SWE
+2024-09-02,Tomokazu Harimoto,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Finals Fukuoka 2024,major,JPN,CHN
+2024-09-03,Hugo Calderano,Ma Long,Ma Long,3-4,WTT Finals Fukuoka 2024,major,BRA,CHN
+2024-09-04,Anton Kallberg,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Contender Beirut 2024,contender,SWE,CHN
+2024-09-04,Fan Zhendong,Lin Gaoyuan,Lin Gaoyuan,2-4,WTT Finals Fukuoka 2024,major,CHN,CHN
+2024-09-04,Liang Jingkun,Ma Long,Ma Long,2-4,WTT Finals Fukuoka 2024,major,CHN,CHN
+2024-09-05,Wang Chuqin,Ma Long,Wang Chuqin,4-3,WTT Finals Fukuoka 2024,major,CHN,CHN
+2024-09-05,Wang Chuqin,Lin Gaoyuan,Wang Chuqin,4-2,WTT Finals Fukuoka 2024,major,CHN,CHN
+2024-09-06,Truls Moregardh,Lim Jonghoon,Lim Jonghoon,3-4,WTT Contender Beirut 2024,contender,SWE,KOR
+2024-09-06,Yukiya Uda,Fan Zhendong,Fan Zhendong,0-4,WTT Contender Beirut 2024,contender,JPN,CHN
+2024-09-06,Quadri Aruna,Lim Jonghoon,Quadri Aruna,4-2,WTT Contender Beirut 2024,contender,NGR,KOR
+2024-09-06,Wang Chuqin,Cho Daeseong,Wang Chuqin,4-1,WTT Contender Beirut 2024,contender,CHN,KOR
+2024-09-07,Xu Xin,Patrick Franziska,Xu Xin,4-2,WTT Contender Beirut 2024,contender,CHN,GER
+2024-09-07,Lin Shidong,Quadri Aruna,Quadri Aruna,3-4,WTT Contender Beirut 2024,contender,CHN,NGR
+2024-09-07,Dang Qiu,Darko Jorgic,Dang Qiu,4-2,WTT Contender Beirut 2024,contender,GER,SLO
+2024-09-07,Fan Zhendong,Togami Shunsuke,Fan Zhendong,4-2,WTT Contender Beirut 2024,contender,CHN,JPN
+2024-09-07,Dang Qiu,Fan Zhendong,Fan Zhendong,0-4,WTT Contender Beirut 2024,contender,GER,CHN
+2024-09-08,Fan Zhendong,Lin Gaoyuan,Fan Zhendong,4-0,WTT Contender Beirut 2024,contender,CHN,CHN
+2024-09-08,Quadri Aruna,Wang Chuqin,Wang Chuqin,0-4,WTT Contender Beirut 2024,contender,NGR,CHN
+2024-09-09,Omar Assar,Xu Xin,Omar Assar,4-1,WTT Contender Beirut 2024,contender,EGY,CHN
+2024-09-09,Omar Assar,Dang Qiu,Dang Qiu,2-4,WTT Contender Beirut 2024,contender,EGY,GER
+2024-09-09,Wang Chuqin,Fan Zhendong,Wang Chuqin,4-2,WTT Contender Beirut 2024,contender,CHN,CHN
+2024-10-10,Chuang Chih-Yuan,Can Akkuzu,Chuang Chih-Yuan,4-2,WTT Contender Almaty 2024,contender,TPE,FRA
+2024-10-10,Quadri Aruna,Chuang Chih-Yuan,Quadri Aruna,4-3,WTT Contender Almaty 2024,contender,NGR,TPE
+2024-10-10,Patrick Franziska,Lim Jonghoon,Lim Jonghoon,3-4,WTT Contender Almaty 2024,contender,GER,KOR
+2024-10-11,Hugo Calderano,Yukiya Uda,Hugo Calderano,4-2,WTT Contender Almaty 2024,contender,BRA,JPN
+2024-10-11,Ma Long,Lim Jonghoon,Ma Long,4-3,WTT Contender Almaty 2024,contender,CHN,KOR
+2024-10-11,Fan Zhendong,Hugo Calderano,Fan Zhendong,4-1,WTT Contender Almaty 2024,contender,CHN,BRA
+2024-10-12,Timo Boll,Lin Shidong,Lin Shidong,3-4,WTT Contender Almaty 2024,contender,GER,CHN
+2024-10-12,Fan Zhendong,Quadri Aruna,Fan Zhendong,4-0,WTT Contender Almaty 2024,contender,CHN,NGR
+2024-10-13,Patrick Franziska,Xu Xin,Patrick Franziska,4-1,WTT Contender Almaty 2024,contender,GER,CHN
+2024-10-13,Dimitrij Ovtcharov,Lim Jonghoon,Lim Jonghoon,3-4,WTT Contender Almaty 2024,contender,GER,KOR
+2024-10-14,Liang Jingkun,Ma Long,Ma Long,3-4,WTT Contender Almaty 2024,contender,CHN,CHN
+2024-10-14,Lin Shidong,Ma Long,Ma Long,3-4,WTT Contender Almaty 2024,contender,CHN,CHN
+2024-10-14,Truls Moregardh,Hugo Calderano,Hugo Calderano,3-4,WTT Contender Almaty 2024,contender,SWE,BRA
+2024-10-14,Fan Zhendong,Ma Long,Fan Zhendong,4-1,WTT Contender Almaty 2024,contender,CHN,CHN
+2024-10-15,Lim Jonghoon,Felix Lebrun,Lim Jonghoon,4-2,WTT Contender Almaty 2024,contender,KOR,FRA
+2024-11-29,Tomokazu Harimoto,Dang Qiu,Tomokazu Harimoto,4-3,Olympic Games Paris 2024,grand_slam,JPN,GER
+2024-11-29,Togami Shunsuke,Liang Jingkun,Liang Jingkun,3-4,Olympic Games Paris 2024,grand_slam,JPN,CHN
+2024-11-29,Cho Daeseong,Truls Moregardh,Cho Daeseong,4-3,Olympic Games Paris 2024,grand_slam,KOR,SWE
+2024-11-29,Can Akkuzu,Marcos Freitas,Marcos Freitas,2-4,Olympic Games Paris 2024,grand_slam,FRA,POR
+2024-11-29,Marcos Freitas,Omar Assar,Omar Assar,2-4,Olympic Games Paris 2024,grand_slam,POR,EGY
+2024-11-30,Cho Daeseong,Liang Jingkun,Cho Daeseong,4-2,Olympic Games Paris 2024,grand_slam,KOR,CHN
+2024-12-01,Darko Jorgic,Lin Gaoyuan,Darko Jorgic,4-2,Olympic Games Paris 2024,grand_slam,SLO,CHN
+2024-12-02,Tomokazu Harimoto,Cho Daeseong,Cho Daeseong,2-4,Olympic Games Paris 2024,grand_slam,JPN,KOR
+2024-12-02,Cho Daeseong,Omar Assar,Omar Assar,3-4,Olympic Games Paris 2024,grand_slam,KOR,EGY
+2024-12-03,Cho Daeseong,Timo Boll,Cho Daeseong,4-3,Olympic Games Paris 2024,grand_slam,KOR,GER
+2024-12-03,Mattias Falck,Marcos Freitas,Marcos Freitas,3-4,Olympic Games Paris 2024,grand_slam,SWE,POR
+2024-12-03,Patrick Franziska,Togami Shunsuke,Togami Shunsuke,3-4,Olympic Games Paris 2024,grand_slam,GER,JPN
+2024-12-03,Truls Moregardh,Yukiya Uda,Truls Moregardh,4-3,Olympic Games Paris 2024,grand_slam,SWE,JPN
+2024-12-03,Darko Jorgic,Truls Moregardh,Truls Moregardh,3-4,Olympic Games Paris 2024,grand_slam,SLO,SWE
+2024-12-04,Tomokazu Harimoto,Lim Jonghoon,Tomokazu Harimoto,4-3,Olympic Games Paris 2024,grand_slam,JPN,KOR
+2024-12-06,Fan Zhendong,Ma Long,Fan Zhendong,4-2,WTT Finals Nagoya 2024,major,CHN,CHN
+2024-12-07,Ma Long,Liang Jingkun,Ma Long,4-3,WTT Finals Nagoya 2024,major,CHN,CHN
+2024-12-09,Ma Long,Wang Chuqin,Ma Long,4-2,WTT Finals Nagoya 2024,major,CHN,CHN
+2024-12-09,Ma Long,Lin Gaoyuan,Ma Long,4-2,WTT Finals Nagoya 2024,major,CHN,CHN
+2024-12-09,Fan Zhendong,Tomokazu Harimoto,Fan Zhendong,4-2,WTT Finals Nagoya 2024,major,CHN,JPN
+2024-12-10,Hugo Calderano,Fan Zhendong,Fan Zhendong,3-4,WTT Finals Nagoya 2024,major,BRA,CHN
+2024-12-11,Truls Moregardh,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Finals Nagoya 2024,major,SWE,JPN
+2024-12-22,Quadri Aruna,Jang Woojin,Quadri Aruna,4-2,WTT Star Contender Bangkok 2024,contender,NGR,KOR
+2024-12-22,Zhao Zihao,Fan Zhendong,Fan Zhendong,0-4,WTT Star Contender Bangkok 2024,contender,CHN,CHN
+2024-12-22,Ma Long,Lin Shidong,Ma Long,4-2,WTT Star Contender Bangkok 2024,contender,CHN,CHN
+2024-12-23,Xu Xin,Anton Kallberg,Xu Xin,4-1,WTT Star Contender Bangkok 2024,contender,CHN,SWE
+2024-12-23,Fan Zhendong,Xu Xin,Fan Zhendong,4-1,WTT Star Contender Bangkok 2024,contender,CHN,CHN
+2024-12-23,Fan Zhendong,Tomokazu Harimoto,Fan Zhendong,4-2,WTT Star Contender Bangkok 2024,contender,CHN,JPN
+2024-12-24,Alexis Lebrun,Lin Shidong,Lin Shidong,3-4,WTT Star Contender Bangkok 2024,contender,FRA,CHN
+2024-12-24,Ma Long,Wang Chuqin,Wang Chuqin,3-4,WTT Star Contender Bangkok 2024,contender,CHN,CHN
+2024-12-25,Tomokazu Harimoto,Quadri Aruna,Tomokazu Harimoto,4-3,WTT Star Contender Bangkok 2024,contender,JPN,NGR
+2024-12-25,Tomokazu Harimoto,Chuang Chih-Yuan,Tomokazu Harimoto,4-2,WTT Star Contender Bangkok 2024,contender,JPN,TPE
+2024-12-25,Patrick Franziska,Anton Kallberg,Anton Kallberg,2-4,WTT Star Contender Bangkok 2024,contender,GER,SWE
+2024-12-26,Fan Zhendong,Lin Gaoyuan,Fan Zhendong,4-1,WTT Star Contender Bangkok 2024,contender,CHN,CHN
+2024-12-26,Wang Chuqin,Timo Boll,Wang Chuqin,4-0,WTT Star Contender Bangkok 2024,contender,CHN,GER
+2024-12-26,Wang Chuqin,Fan Zhendong,Wang Chuqin,4-3,WTT Star Contender Bangkok 2024,contender,CHN,CHN
+2024-12-27,Patrick Franziska,Lim Jonghoon,Patrick Franziska,4-3,WTT Star Contender Bangkok 2024,contender,GER,KOR
+2025-01-09,Quadri Aruna,Dimitrij Ovtcharov,Quadri Aruna,4-3,WTT Champions Incheon 2025,major,NGR,GER
+2025-01-09,Quadri Aruna,Hugo Calderano,Hugo Calderano,3-4,WTT Champions Incheon 2025,major,NGR,BRA
+2025-01-09,Jang Woojin,Liang Jingkun,Jang Woojin,4-3,WTT Champions Incheon 2025,major,KOR,CHN
+2025-01-09,Felix Lebrun,Truls Moregardh,Felix Lebrun,4-3,WTT Champions Incheon 2025,major,FRA,SWE
+2025-01-09,Jang Woojin,Ma Long,Jang Woojin,4-2,WTT Champions Incheon 2025,major,KOR,CHN
+2025-01-09,Felix Lebrun,Fan Zhendong,Fan Zhendong,1-4,WTT Champions Incheon 2025,major,FRA,CHN
+2025-01-09,Fan Zhendong,Alexis Lebrun,Fan Zhendong,4-1,WTT Champions Incheon 2025,major,CHN,FRA
+2025-01-10,Timo Boll,Tomokazu Harimoto,Tomokazu Harimoto,3-4,WTT Champions Incheon 2025,major,GER,JPN
+2025-01-10,Hugo Calderano,Ma Long,Ma Long,2-4,WTT Champions Incheon 2025,major,BRA,CHN
+2025-01-10,Felix Lebrun,Jang Woojin,Felix Lebrun,4-2,WTT Champions Incheon 2025,major,FRA,KOR
+2025-01-10,Fan Zhendong,Lin Shidong,Fan Zhendong,4-2,WTT Champions Incheon 2025,major,CHN,CHN
+2025-01-11,Truls Moregardh,Patrick Franziska,Truls Moregardh,4-3,WTT Champions Incheon 2025,major,SWE,GER
+2025-01-13,Lin Gaoyuan,Jang Woojin,Jang Woojin,3-4,WTT Champions Incheon 2025,major,CHN,KOR
+2025-01-14,Wang Chuqin,Lin Shidong,Lin Shidong,2-4,WTT Champions Incheon 2025,major,CHN,CHN
+2025-01-14,Tomokazu Harimoto,Alexis Lebrun,Alexis Lebrun,3-4,WTT Champions Incheon 2025,major,JPN,FRA
+2025-01-25,Hugo Calderano,Wang Chuqin,Wang Chuqin,2-4,WTT Contender Almaty 2025,contender,BRA,CHN
+2025-01-25,Chuang Chih-Yuan,Wang Chuqin,Chuang Chih-Yuan,4-1,WTT Contender Almaty 2025,contender,TPE,CHN
+2025-01-25,Fan Zhendong,Alexis Lebrun,Fan Zhendong,4-0,WTT Contender Almaty 2025,contender,CHN,FRA
+2025-01-26,Felix Lebrun,Dang Qiu,Felix Lebrun,4-2,WTT Contender Almaty 2025,contender,FRA,GER
+2025-01-26,Yukiya Uda,Truls Moregardh,Yukiya Uda,4-3,WTT Contender Almaty 2025,contender,JPN,SWE
+2025-01-26,Yukiya Uda,Felix Lebrun,Felix Lebrun,3-4,WTT Contender Almaty 2025,contender,JPN,FRA
+2025-01-26,Fan Zhendong,Liang Jingkun,Fan Zhendong,4-2,WTT Contender Almaty 2025,contender,CHN,CHN
+2025-01-26,Felix Lebrun,Fan Zhendong,Fan Zhendong,1-4,WTT Contender Almaty 2025,contender,FRA,CHN
+2025-01-27,Yukiya Uda,Can Akkuzu,Yukiya Uda,4-3,WTT Contender Almaty 2025,contender,JPN,FRA
+2025-01-28,Fan Zhendong,Lin Shidong,Fan Zhendong,4-1,WTT Contender Almaty 2025,contender,CHN,CHN
+2025-01-28,Xu Xin,Yukiya Uda,Yukiya Uda,3-4,WTT Contender Almaty 2025,contender,CHN,JPN
+2025-01-29,Anton Kallberg,Felix Lebrun,Felix Lebrun,1-4,WTT Contender Almaty 2025,contender,SWE,FRA
+2025-01-29,Liang Jingkun,Chuang Chih-Yuan,Liang Jingkun,4-1,WTT Contender Almaty 2025,contender,CHN,TPE
+2025-01-30,Dang Qiu,Zhao Zihao,Dang Qiu,4-3,WTT Contender Almaty 2025,contender,GER,CHN
+2025-01-30,Liang Jingkun,Tomokazu Harimoto,Liang Jingkun,4-2,WTT Contender Almaty 2025,contender,CHN,JPN
+2025-03-05,Lin Shidong,Felix Lebrun,Felix Lebrun,3-4,WTT Star Contender Doha 2025,contender,CHN,FRA
+2025-03-05,Tomokazu Harimoto,Zhao Zihao,Tomokazu Harimoto,4-3,WTT Star Contender Doha 2025,contender,JPN,CHN
+2025-03-05,Felix Lebrun,Liang Jingkun,Felix Lebrun,4-2,WTT Star Contender Doha 2025,contender,FRA,CHN
+2025-03-05,Fan Zhendong,Felix Lebrun,Fan Zhendong,4-2,WTT Star Contender Doha 2025,contender,CHN,FRA
+2025-03-06,Darko Jorgic,Fan Zhendong,Fan Zhendong,2-4,WTT Star Contender Doha 2025,contender,SLO,CHN
+2025-03-06,Hugo Calderano,Tomokazu Harimoto,Hugo Calderano,4-2,WTT Star Contender Doha 2025,contender,BRA,JPN
+2025-03-07,Lim Jonghoon,Hugo Calderano,Hugo Calderano,3-4,WTT Star Contender Doha 2025,contender,KOR,BRA
+2025-03-07,Hugo Calderano,Liang Jingkun,Liang Jingkun,2-4,WTT Star Contender Doha 2025,contender,BRA,CHN
+2025-03-08,Ma Long,Darko Jorgic,Darko Jorgic,2-4,WTT Star Contender Doha 2025,contender,CHN,SLO
+2025-03-08,Fan Zhendong,Patrick Franziska,Fan Zhendong,4-1,WTT Star Contender Doha 2025,contender,CHN,GER
+2025-03-09,Quadri Aruna,Fan Zhendong,Fan Zhendong,1-4,WTT Star Contender Doha 2025,contender,NGR,CHN
+2025-03-09,Timo Boll,Hugo Calderano,Hugo Calderano,1-4,WTT Star Contender Doha 2025,contender,GER,BRA
+2025-03-09,Liang Jingkun,Truls Moregardh,Liang Jingkun,4-3,WTT Star Contender Doha 2025,contender,CHN,SWE
+2025-03-09,Anton Kallberg,Fan Zhendong,Fan Zhendong,1-4,WTT Star Contender Doha 2025,contender,SWE,CHN
+2025-03-10,Hugo Calderano,Cho Daeseong,Hugo Calderano,4-2,WTT Star Contender Doha 2025,contender,BRA,KOR

@@ -1,0 +1,41 @@
+# === PongPredict — AI Table Tennis Predictions ===
+
+# Сбор данных
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# База данных
+sqlalchemy>=2.0.0
+
+# Обработка данных
+pandas>=2.1.0
+numpy>=1.24.0
+
+# ML модель
+xgboost>=2.0.0
+scikit-learn>=1.3.0
+
+# Визуализация (для анализа)
+matplotlib>=3.7.0
+
+# Скрейпинг (Flashscore)
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Telegram бот
+python-telegram-bot>=22.0
+
+# Продвинутая модель
+optuna>=3.4.0
+lightgbm>=4.1.0
+shap>=0.44.0
+
+# Веб-приложение (Phase 2)
+# flask>=3.0.0
+# streamlit>=1.28.0
+
+# Утилиты
+python-dateutil>=2.8.0
+tqdm>=4.66.0
+pyyaml>=6.0.0
