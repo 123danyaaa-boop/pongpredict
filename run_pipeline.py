@@ -87,7 +87,7 @@ def step_2_calculate_elo():
 
     # Обновляем ELO в базе
     for player_id, ratings in elo.ratings.items():
-        player = db.query(Player).get(player_id)
+        player = db.get(Player, player_id)
         if player:
             player.elo_overall = ratings['overall']
             player.elo_major = ratings['major']
@@ -99,7 +99,7 @@ def step_2_calculate_elo():
     print("\n  🏆 Топ-10 игроков по ELO:")
     top = elo.get_top_players(n=10, min_matches=1)
     for i, (pid, rating, mc) in enumerate(top, 1):
-        player = db.query(Player).get(pid)
+        player = db.get(Player, pid)
         name = player.name if player else f"Player {pid}"
         print(f"    {i:2d}. {name:<25s} ELO: {rating:.0f}  ({mc} матчей)")
 
