@@ -2,8 +2,16 @@
 __pycache__/
 *.pyc
 *.db
+*.db-shm
+*.db-wal
 .env
 logs/
 model/saved/
 data/debug_*
 data/tt_*.png
+.idea/
+tender_platform/
+*.pkl
+scraper_state.json
+bot/subscribers.txt
+data/scraped_data/
