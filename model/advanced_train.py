@@ -59,7 +59,7 @@ def tune_xgboost(X_train, y_train, X_val, y_val, n_trials=50):
             'reg_alpha': trial.suggest_float('reg_alpha', 0, 2),
             'reg_lambda': trial.suggest_float('reg_lambda', 0.5, 3),
             'eval_metric': 'logloss',
-                        'verbosity': 0,
+            'verbosity': 0,
         }
         # Тюнинг только на валидационной выборке
         model = xgb.XGBClassifier(**params)
@@ -77,7 +77,6 @@ def tune_xgboost(X_train, y_train, X_val, y_val, n_trials=50):
 
     best_params = study.best_params
     best_params['eval_metric'] = 'logloss'
-    best_params['use_label_encoder'] = False
     best_params['verbosity'] = 0
 
     # Финальная модель обучается на train+val (больше данных)
@@ -116,7 +115,6 @@ def build_ensemble(X_train, y_train, X_val, y_val, X_test, y_test, best_xgb_para
         'subsample': 0.8, 'colsample_bytree': 0.8,
     }
     xgb_params['eval_metric'] = 'logloss'
-    xgb_params['use_label_encoder'] = False
     xgb_params['verbosity'] = 0
     models['xgb'] = xgb.XGBClassifier(**xgb_params)
 
