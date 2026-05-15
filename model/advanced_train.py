@@ -59,8 +59,7 @@ def tune_xgboost(X_train, y_train, X_val, y_val, n_trials=50):
             'reg_alpha': trial.suggest_float('reg_alpha', 0, 2),
             'reg_lambda': trial.suggest_float('reg_lambda', 0.5, 3),
             'eval_metric': 'logloss',
-            'use_label_encoder': False,
-            'verbosity': 0,
+                        'verbosity': 0,
         }
         # Тюнинг только на валидационной выборке
         model = xgb.XGBClassifier(**params)

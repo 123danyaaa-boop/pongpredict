@@ -10,7 +10,11 @@ model/saved/
 data/debug_*
 data/tt_*.png
 .idea/
+tender_platform/
 *.pkl
+*.docx
+*.csv
 scraper_state.json
 bot/subscribers.txt
 data/scraped_data/
+data/data/
